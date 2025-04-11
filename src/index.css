@@ -1,0 +1,120 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Montserrat:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 172 84% 56%;
+    --primary-foreground: 240 5.9% 10%;
+
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+
+    --accent: 246 83% 69%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 172 85% 60%;
+
+    --radius: 0.75rem;
+  }
+
+  * {
+    @apply border-border selection:bg-portfolio-teal/20 selection:text-white;
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-portfolio-dark text-foreground font-sans antialiased overflow-x-hidden;
+    font-feature-settings: "ss01", "ss02", "cv01", "cv02", "cv03";
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
+  }
+
+  ::-webkit-scrollbar {
+    @apply w-1.5;
+  }
+  
+  ::-webkit-scrollbar-track {
+    @apply bg-portfolio-gray;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    @apply bg-portfolio-teal/50 hover:bg-portfolio-teal transition-colors rounded-full;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply backdrop-blur-xl bg-white/5 border border-white/10 shadow-lg;
+  }
+  
+  .neo-blur {
+    @apply backdrop-blur-2xl bg-portfolio-gray/80 border border-white/10 rounded-lg;
+  }
+  
+  .text-gradient {
+    @apply bg-gradient-to-r from-portfolio-teal to-portfolio-purple bg-clip-text text-transparent;
+  }
+  
+  .section-container {
+    @apply w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 relative;
+  }
+
+  .stagger-animate > * {
+    @apply opacity-0;
+  }
+
+  .section-heading {
+    @apply text-4xl md:text-5xl font-bold mb-12 text-gradient relative;
+  }
+
+  .section-heading::after {
+    content: '';
+    @apply block absolute -bottom-3 left-0 h-1 w-16 bg-portfolio-teal rounded-full;
+  }
+}
+
+/* Animation delay utilities */
+.animation-delay-100 {
+  animation-delay: 100ms;
+}
+.animation-delay-200 {
+  animation-delay: 200ms;
+}
+.animation-delay-300 {
+  animation-delay: 300ms;
+}
+.animation-delay-400 {
+  animation-delay: 400ms;
+}
+.animation-delay-500 {
+  animation-delay: 500ms;
+}
+.animation-delay-700 {
+  animation-delay: 700ms;
+}
+.animation-delay-1000 {
+  animation-delay: 1000ms;
+}
