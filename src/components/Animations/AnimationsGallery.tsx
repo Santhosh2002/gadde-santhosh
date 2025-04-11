@@ -1,8 +1,7 @@
-
-import React, { useState } from 'react';
-import AnimatedText from '../UI/AnimatedText';
-import { Card, CardContent } from "@/components/ui/card";
-import { Play, Maximize2 } from 'lucide-react';
+import React, { useState } from "react";
+import AnimatedText from "../UI/AnimatedText";
+import { Card, CardContent } from "@/components/UI/card";
+import { Play, Maximize2 } from "lucide-react";
 
 type AnimationProject = {
   id: number;
@@ -21,7 +20,7 @@ const animationProjects: AnimationProject[] = [
     description: "Experimental liquid animations using WebGL and GSAP",
     category: "Experimental",
     thumbnail: "/placeholder.svg",
-    videoUrl: "#"
+    videoUrl: "#",
   },
   {
     id: 2,
@@ -29,7 +28,7 @@ const animationProjects: AnimationProject[] = [
     description: "Interactive 3D product viewer with custom animations",
     category: "Commercial",
     thumbnail: "/placeholder.svg",
-    liveUrl: "#"
+    liveUrl: "#",
   },
   {
     id: 3,
@@ -37,7 +36,7 @@ const animationProjects: AnimationProject[] = [
     description: "Navigation concept using interactive particle systems",
     category: "UI/UX",
     thumbnail: "/placeholder.svg",
-    videoUrl: "#"
+    videoUrl: "#",
   },
   {
     id: 4,
@@ -45,7 +44,7 @@ const animationProjects: AnimationProject[] = [
     description: "Smooth transitions between complex data states",
     category: "Data Viz",
     thumbnail: "/placeholder.svg",
-    liveUrl: "#"
+    liveUrl: "#",
   },
   {
     id: 5,
@@ -53,7 +52,7 @@ const animationProjects: AnimationProject[] = [
     description: "Narrative unfolding through scroll-based animations",
     category: "Storytelling",
     thumbnail: "/placeholder.svg",
-    videoUrl: "#"
+    videoUrl: "#",
   },
   {
     id: 6,
@@ -61,38 +60,49 @@ const animationProjects: AnimationProject[] = [
     description: "Comprehensive system for animated text effects",
     category: "Typography",
     thumbnail: "/placeholder.svg",
-    liveUrl: "#"
-  }
+    liveUrl: "#",
+  },
 ];
 
 const AnimationsGallery = () => {
   const [filter, setFilter] = useState<string>("all");
   const [activeItem, setActiveItem] = useState<AnimationProject | null>(null);
-  
-  const filteredProjects = filter === "all" 
-    ? animationProjects 
-    : animationProjects.filter(project => project.category.toLowerCase() === filter.toLowerCase());
 
-  const categories = ["all", ...new Set(animationProjects.map(project => project.category.toLowerCase()))];
+  const filteredProjects =
+    filter === "all"
+      ? animationProjects
+      : animationProjects.filter(
+          (project) => project.category.toLowerCase() === filter.toLowerCase()
+        );
+
+  const categories = [
+    "all",
+    ...new Set(
+      animationProjects.map((project) => project.category.toLowerCase())
+    ),
+  ];
 
   return (
-    <section id="animations" className="py-24 bg-portfolio-dark relative overflow-hidden">
+    <section
+      id="animations"
+      className="py-24 bg-portfolio-dark relative overflow-hidden"
+    >
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <AnimatedText 
-            text="Animations Gallery" 
-            className="section-heading mx-auto" 
-            as="h2" 
+          <AnimatedText
+            text="Animations Gallery"
+            className="section-heading mx-auto"
+            as="h2"
           />
-          <AnimatedText 
-            text="Explore my collection of experimental and commercial animations" 
-            className="text-gray-400 mt-4 max-w-2xl mx-auto" 
-            as="p" 
-            animation="fade-in" 
-            delay={200} 
+          <AnimatedText
+            text="Explore my collection of experimental and commercial animations"
+            className="text-gray-400 mt-4 max-w-2xl mx-auto"
+            as="p"
+            animation="fade-in"
+            delay={200}
           />
         </div>
-        
+
         {/* Category Filter */}
         <div className="flex flex-wrap justify-center gap-2 mb-12">
           {categories.map((category, index) => (
@@ -100,8 +110,8 @@ const AnimationsGallery = () => {
               key={index}
               className={`px-4 py-2 rounded-full text-sm transition-colors ${
                 filter === category
-                  ? 'bg-portfolio-teal text-black'
-                  : 'bg-portfolio-gray/50 hover:bg-portfolio-gray text-white'
+                  ? "bg-portfolio-teal text-black"
+                  : "bg-portfolio-gray/50 hover:bg-portfolio-gray text-white"
               }`}
               onClick={() => setFilter(category)}
             >
@@ -109,22 +119,25 @@ const AnimationsGallery = () => {
             </button>
           ))}
         </div>
-        
+
         {/* Gallery Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 stagger-animate">
           {filteredProjects.map((project) => (
-            <Card key={project.id} className="glass-card border-portfolio-teal/20 overflow-hidden group">
+            <Card
+              key={project.id}
+              className="glass-card border-portfolio-teal/20 overflow-hidden group"
+            >
               <CardContent className="p-0 relative">
                 <div className="aspect-video bg-portfolio-gray overflow-hidden">
-                  <img 
-                    src={project.thumbnail} 
+                  <img
+                    src={project.thumbnail}
                     alt={project.title}
-                    className="w-full h-full object-cover opacity-70 group-hover:scale-105 transition-transform duration-500" 
+                    className="w-full h-full object-cover opacity-70 group-hover:scale-105 transition-transform duration-500"
                   />
                   <div className="absolute inset-0 bg-portfolio-dark/60 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
                     <div className="flex gap-3">
                       {project.videoUrl && (
-                        <button 
+                        <button
                           onClick={() => setActiveItem(project)}
                           className="p-3 rounded-full bg-portfolio-teal text-black hover:bg-white transition-colors"
                         >
@@ -132,7 +145,7 @@ const AnimationsGallery = () => {
                         </button>
                       )}
                       {project.liveUrl && (
-                        <a 
+                        <a
                           href={project.liveUrl}
                           target="_blank"
                           rel="noopener noreferrer"
@@ -145,7 +158,9 @@ const AnimationsGallery = () => {
                   </div>
                 </div>
                 <div className="p-5">
-                  <h3 className="font-semibold text-lg mb-1">{project.title}</h3>
+                  <h3 className="font-semibold text-lg mb-1">
+                    {project.title}
+                  </h3>
                   <p className="text-gray-400 text-sm">{project.description}</p>
                   <div className="mt-3">
                     <span className="inline-block px-3 py-1 text-xs rounded-full bg-portfolio-gray/70 text-portfolio-teal">
@@ -157,11 +172,13 @@ const AnimationsGallery = () => {
             </Card>
           ))}
         </div>
-        
+
         {/* If no items match the filter */}
         {filteredProjects.length === 0 && (
           <div className="text-center py-12">
-            <p className="text-gray-400">No animations found in this category.</p>
+            <p className="text-gray-400">
+              No animations found in this category.
+            </p>
           </div>
         )}
       </div>

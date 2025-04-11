@@ -1,12 +1,12 @@
 import React, { useEffect, useRef } from "react";
 import { ArrowDown, Briefcase } from "lucide-react";
 import AnimatedText from "../UI/AnimatedText";
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/UI/avatar";
 import {
   HoverCard,
   HoverCardContent,
   HoverCardTrigger,
-} from "@/components/ui/hover-card";
+} from "@/components/UI/hover-card";
 
 const HeroSection = () => {
   const profileRef = useRef<HTMLDivElement>(null);
