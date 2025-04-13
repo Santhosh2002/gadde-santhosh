@@ -4,32 +4,33 @@ import AnimatedText from "../UI/AnimatedText";
 
 const timelineItems = [
   {
+    year: "2025",
+    title: "Software Developer Engineer I",
+    company: "Reccopilot Inc.",
+    description:
+      "Built AI-driven recruitment features using RAG and automated workflows with Zapier and Power Automate. Developed scalable C# APIs and crafted responsive UIs with React and Redux.",
+  },
+  {
+    year: "2024",
+    title: "SDE Intern",
+    company: "Reccopilot Inc.",
+    description:
+      "Focused on R&D and developed POCs for AI and automation features, many of which were scaled to production. Contributed to both frontend (React) and backend (C#) foundations.",
+  },
+  {
     year: "2023",
-    title: "Lead UI/UX Engineer",
-    company: "Tech Innovations Inc.",
+    title: "Full Stack Developer Intern",
+    company: "Reccopilot Inc.",
     description:
-      "Led a team of developers to create cutting-edge user interfaces and animations for enterprise products.",
+      "Worked on end-to-end feature development, integrating frontend components with backend services. Contributed to scalable UI design and API connectivity across the platform.",
   },
+
   {
-    year: "2021",
-    title: "Senior Front-end Developer",
-    company: "Digital Solutions LLC",
+    year: "2023",
+    title: "AI & ML Developer Intern",
+    company: "RIG Enterprises",
     description:
-      "Specialized in React animations and interactive experiences for major client websites.",
-  },
-  {
-    year: "2019",
-    title: "UI/UX Developer",
-    company: "Creative Minds Studio",
-    description:
-      "Designed and implemented responsive interfaces and micro-interactions for mobile applications.",
-  },
-  {
-    year: "2017",
-    title: "Web Developer",
-    company: "StartUp Ventures",
-    description:
-      "Developed interactive websites and implemented front-end animations using modern frameworks.",
+      "Worked on Project Recco, building AI/ML models for text, speech, and image processing. Contributed to NLP tasks, model fine-tuning, and DevOps for deploying AI in production.",
   },
 ];
 
@@ -52,28 +53,28 @@ const AboutSection = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <AnimatedText
-              text="I'm a Software Developer Engineer specialized in UI/UX design and animations"
+              text="I'm a Software Development Engineer with expertise in AI, Full-Stack Development"
               className="text-2xl font-semibold text-gradient mb-4"
               animation="fade-in-up"
             />
 
             <div className="space-y-4">
               <AnimatedText
-                text="With a passion for creating beautiful and functional user experiences, I combine technical expertise with creative design thinking to build engaging digital products."
+                text="From designing frontend frameworks and crafting seamless UIs to building scalable APIs and integrating AI features like RAG, I turn complex ideas into impactful products."
                 className="text-gray-400 leading-relaxed"
                 animation="fade-in-up"
                 delay={100}
               />
 
               <AnimatedText
-                text="My background in both design and development allows me to bridge the gap between aesthetics and functionality, creating seamless experiences that delight users and achieve business goals."
+                text="With hands-on experience in automation, AI/ML model deployment, and prompt engineering, I bring together data-driven intelligence and robust engineering practices."
                 className="text-gray-400 leading-relaxed"
                 animation="fade-in-up"
                 delay={200}
               />
 
               <AnimatedText
-                text="I specialize in motion design and interactive animations, using modern web technologies to push the boundaries of what's possible in digital experiences."
+                text="My unique blend of design thinking, backend logic, and AI innovation helps me create advanced digital solutions that are efficient, scalable, and user-centric."
                 className="text-gray-400 leading-relaxed"
                 animation="fade-in-up"
                 delay={300}

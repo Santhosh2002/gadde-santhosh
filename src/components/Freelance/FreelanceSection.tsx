@@ -32,42 +32,42 @@ type FreelanceProject = {
 const freelanceProjects: FreelanceProject[] = [
   {
     id: 1,
-    title: "E-commerce Redesign",
-    client: "Fashion Boutique",
+    title: "Office Core SSO",
+    client: "Office Core Inc.",
     description:
-      "Complete UI/UX overhaul with custom animations and improved user flow, resulting in 40% increase in conversion rates.",
+      "An auth system for Office Core's web applications, integrating with existing systems and enhancing security protocols. with Single Sign-On (SSO) capabilities. allowing users to access multiple applications with a single set of credentials.",
     testimonial:
-      "The redesign completely transformed our online presence. The animations and smooth interactions have made our brand stand out in a crowded market.",
-    clientName: "Sarah Johnson",
-    clientPosition: "Marketing Director",
-    image: "/placeholder.svg",
-    link: "#",
+      "The SSO system has streamlined our user experience and significantly improved security. The integration was seamless, and the team was highly responsive to our needs.",
+    clientName: "Lagvendra",
+    clientPosition: "Developer, Office Core",
+    image: "./freelance-officecore.png",
   },
   {
     id: 2,
-    title: "Mobile App Animation System",
-    client: "Health Tech Startup",
+    title: "Real Estate Website Development & SEO Optimization",
+    client: "RK Realtors & Consultants",
     description:
-      "Created a comprehensive animation system for a healthcare mobile app, enhancing user engagement and simplifying complex medical information.",
+      "Designed and developed a modern, responsive website for a real estate firm, featuring property listings, lead capture forms, and SEO-optimized content to improve online visibility.",
     testimonial:
-      "The animations made complex health data easy to understand. Our user engagement metrics have improved significantly since implementation.",
-    clientName: "Michael Chen",
-    clientPosition: "Product Manager",
-    image: "/placeholder.svg",
-    link: "#",
+      "The new website truly elevated our brand. Clients now find us more easily, and the clean design helps them navigate listings effortlessly.",
+    clientName: "Rahul",
+    clientPosition: "Board Member, RK Realtors",
+    image: "./rk-freelance.png",
+    link: "https://www.rkrealco.com",
   },
+
   {
     id: 3,
-    title: "Interactive Dashboard",
-    client: "Financial Services Company",
+    title: "Login/Sigup, Google Authentication",
+    client: "MyLynk",
     description:
-      "Designed and developed an interactive data visualization dashboard with real-time animations for financial metrics tracking.",
+      "Developed a secure login/signup system with Google authentication for MyLynk's web application. This feature enhances user experience by allowing users to log in using their Google accounts, streamlining the registration process.",
     testimonial:
-      "The dashboard has revolutionized how we present data to our clients. The animations make complex financial information accessible and engaging.",
-    clientName: "Jennifer Williams",
-    clientPosition: "CTO",
-    image: "/placeholder.svg",
-    link: "#",
+      "The Google authentication feature has made our app much more user-friendly. Users love the convenience of logging in with their Google accounts.",
+    clientName: "Anmol",
+    clientPosition: "Founder, Valencware",
+    image: "./mylynk-freelance.png",
+    link: "https://valenceware.com",
   },
 ];
 
@@ -104,11 +104,7 @@ const FreelanceSection = () => {
                   <Card className="glass-card border-portfolio-teal/20 h-full flex flex-col">
                     <CardHeader>
                       <div className="overflow-hidden rounded-lg mb-4 aspect-video bg-portfolio-gray flex items-center justify-center">
-                        <img
-                          src={project.image}
-                          alt={project.title}
-                          className="w-16 h-16 opacity-50"
-                        />
+                        <img src={project.image} alt={project.title} />
                       </div>
                       <CardTitle className="text-xl">{project.title}</CardTitle>
                       <CardDescription className="text-portfolio-teal">

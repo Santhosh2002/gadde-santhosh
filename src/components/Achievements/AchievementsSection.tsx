@@ -17,32 +17,24 @@ const achievements: Achievement[] = [
   {
     id: 1,
     title: "Best Employee Award",
-    organization: "TechCorp International",
-    date: "December 2023",
+    organization: "Reccopilot Inc.",
+    date: "January 2025",
     description:
-      "Recognized for outstanding contributions to product design and development, specifically for implementing innovative animation systems that improved user engagement by 45%.",
-    certificateLink: "#",
-    image: "/placeholder.svg",
+      "Recognized for outstanding contributions to product development, specifically for implementing innovative AI systems.",
+    certificateLink:
+      "https://www.linkedin.com/posts/sai-santhosh-gadde-3092a61ba_gratitude-recognition-employeeofthequarter-activity-7289258136610205696-LBsK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADLxzDkBjsAB_s_0k7MZPITcugNFITPIrzA",
+    image: "./award.jpg",
   },
   {
     id: 2,
-    title: "UI/UX Excellence Award",
-    organization: "DesignWeek Conference",
+    title: "Unstop Awards",
+    organization: "Flipkart Inc.",
     date: "September 2023",
     description:
-      "Awarded for exceptional UI/UX design in the financial sector, creating intuitive interfaces with meaningful animations that simplified complex data visualization.",
-    certificateLink: "#",
-    image: "/placeholder.svg",
-  },
-  {
-    id: 3,
-    title: "Innovation in Animation",
-    organization: "Digital Creators Association",
-    date: "March 2023",
-    description:
-      "Recognized for pioneering new animation techniques in web applications that significantly enhanced user engagement while maintaining optimal performance.",
-    certificateLink: "#",
-    image: "/placeholder.svg",
+      "Achieved a rank of Top 70 in the Unstop Competitive E-School Leader 2023 Nominations.",
+    certificateLink:
+      "https://unstop.com/awards/o/indian-institute-of-information-technology-iiit-vadodara-10554/2023",
+    image: "./unstop.jpeg",
   },
 ];
 
@@ -74,13 +66,13 @@ const AchievementsSection = () => {
               key={achievement.id}
               className="glass-card border-portfolio-teal/20 overflow-hidden h-full flex flex-col"
             >
-              <div className="h-40 bg-portfolio-gray relative overflow-hidden">
+              <div className="h-60 bg-portfolio-gray relative overflow-hidden">
                 <div className="absolute inset-0 flex items-center justify-center">
                   <Award className="w-20 h-20 text-portfolio-teal opacity-20" />
                   <img
                     src={achievement.image}
                     alt={achievement.title}
-                    className="absolute inset-0 w-full h-full object-cover opacity-30 mix-blend-overlay"
+                    className="absolute inset-0 w-full h-full object-cover"
                   />
                 </div>
                 <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-portfolio-dark to-transparent h-1/2"></div>

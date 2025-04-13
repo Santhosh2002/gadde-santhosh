@@ -5,7 +5,8 @@ import { Download, Eye, FileText } from "lucide-react";
 
 const ResumeSection = () => {
   const [isViewerOpen, setIsViewerOpen] = useState(false);
-  const resumeUrl = "#"; // Replace with actual resume URL
+  const resumeUrl =
+    "https://drive.google.com/file/d/1au7eYMfFght7oqzXYFg4sEaTtcMaCC_Z/view?usp=sharing"; // Replace with actual resume URL
 
   return (
     <section
@@ -70,15 +71,13 @@ const ResumeSection = () => {
                 <div className="w-full h-full p-4">
                   <div className="w-full h-full flex items-center justify-center bg-portfolio-dark rounded">
                     {/* Replace with actual PDF viewer or iframe */}
-                    <div className="text-center">
-                      <FileText className="w-16 h-16 mx-auto text-portfolio-teal mb-4 opacity-50" />
-                      <p className="text-gray-400">
-                        PDF Viewer would be implemented here
-                      </p>
-                      <p className="text-gray-500 text-sm mt-2">
-                        Using a PDF viewer library like react-pdf
-                      </p>
-                    </div>
+                    <iframe
+                      src="https://drive.google.com/file/d/1au7eYMfFght7oqzXYFg4sEaTtcMaCC_Z/preview"
+                      width="100%"
+                      height="100%"
+                      allow="autoplay"
+                      className="rounded"
+                    ></iframe>
                   </div>
                 </div>
               </div>
@@ -92,7 +91,7 @@ const ResumeSection = () => {
             </p>
             <div className="mt-4 flex justify-center gap-4">
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/sai-santhosh-gadde-3092a61ba"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-portfolio-teal hover:text-white transition-colors"
