@@ -89,7 +89,7 @@ const ContactSection = () => {
               <h3 className="text-2xl font-semibold mb-6">Connect</h3>
               <div className="flex space-x-5">
                 <a
-                  href="www.linkedin.com/in/sai-santhosh-gadde-3092a61ba"
+                  href="https://www.linkedin.com/in/sai-santhosh-gadde-3092a61ba"
                   className="w-12 h-12 rounded-full flex items-center justify-center bg-portfolio-gray hover:bg-portfolio-teal hover:text-black transition-all duration-300"
                   aria-label="LinkedIn"
                   target="_blank"

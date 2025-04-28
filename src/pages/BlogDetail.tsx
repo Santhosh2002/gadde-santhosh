@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
-import { blogPosts, BlogPost } from "../components/Blog/BlogSection";
+import { blogPosts, BlogPost } from "../components/Blog/Blogs";
 import AnimatedText from "../components/UI/AnimatedText";
 import { Button } from "@/components/UI/button";
 import { Calendar, Clock, ArrowLeft, Share2 } from "lucide-react";

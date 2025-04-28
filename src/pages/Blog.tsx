@@ -1,6 +1,5 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import { blogPosts } from "../components/Blog/BlogSection";
 import AnimatedText from "../components/UI/AnimatedText";
 import {
   Card,
@@ -12,15 +11,46 @@ import { ArrowRight, Calendar, Clock, ArrowLeft } from "lucide-react";
 import { Button } from "@/components/UI/button";
 import Navbar from "../components/UI/Navbar";
 import Footer from "../components/UI/Footer";
-
+import { blogPosts } from "../components/Blog/Blogs";
 const Blog = () => {
   const navigate = useNavigate();
+  useEffect(() => {
+    // Initialize scroll-based animations
+    const animateOnScroll = () => {
+      const elements = document.querySelectorAll(".stagger-animate > *");
 
+      const observer = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              entry.target.classList.add("animate-fade-in-up");
+              // Fix TypeScript error by casting to HTMLElement before accessing style property
+              const target = entry.target as HTMLElement;
+              target.style.opacity = "1";
+            }
+          });
+        },
+        { threshold: 0.1 }
+      );
+
+      elements.forEach((el) => observer.observe(el));
+    };
+
+    animateOnScroll();
+
+    // Cleanup
+    return () => {
+      window.removeEventListener("scroll", animateOnScroll);
+    };
+  }, []);
+  const handleReadMore = (postId: number) => {
+    navigate(`/blog/${postId}`);
+  };
   return (
     <div className="bg-portfolio-dark text-white min-h-screen">
       <Navbar />
 
-      <section className="py-24 bg-portfolio-dark relative overflow-hidden">
+      <section className="py-24 bg-portfolio-dark relative ">
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row items-start md:items-center justify-between mb-10">
             <div>
@@ -49,8 +79,8 @@ const Blog = () => {
                 key={post.id}
                 className="block h-full transform transition-transform duration-300 hover:-translate-y-2"
               >
-                <Card className="glass-card border-portfolio-teal/20 overflow-hidden h-full flex flex-col hover:shadow-lg hover:shadow-portfolio-teal/10 transition-all">
-                  <div className="h-52 overflow-hidden relative">
+                <Card className="glass-card border-portfolio-teal/20 overflow-hidden h-full flex flex-col">
+                  <div className="h-48 overflow-hidden relative">
                     <img
                       src={post.image}
                       alt={post.title}
@@ -80,11 +110,11 @@ const Blog = () => {
                   <CardFooter className="px-6 pb-5">
                     <Button
                       variant="ghost"
-                      onClick={() => navigate(`/blog/${post.id}`)}
+                      onClick={() => handleReadMore(post.id)}
                       className="flex items-center text-portfolio-teal hover:text-portfolio-teal/80 group p-0"
                     >
                       <span className="mr-2 group-hover:mr-3 transition-all">
-                        Read full article
+                        Read more
                       </span>
                       <ArrowRight
                         size={16}

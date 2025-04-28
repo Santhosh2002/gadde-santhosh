@@ -66,7 +66,7 @@ const freelanceProjects: FreelanceProject[] = [
       "The Google authentication feature has made our app much more user-friendly. Users love the convenience of logging in with their Google accounts.",
     clientName: "Anmol",
     clientPosition: "Founder, Valencware",
-    image: "./mylynk-freelance.png",
+    image: "./mylynk-freelance-4.png",
     link: "https://valenceware.com",
   },
 ];

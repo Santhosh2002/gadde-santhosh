@@ -32,6 +32,13 @@ const timelineItems = [
     description:
       "Worked on Project Recco, building AI/ML models for text, speech, and image processing. Contributed to NLP tasks, model fine-tuning, and DevOps for deploying AI in production.",
   },
+  {
+    year: "2023",
+    title: "Freelancer",
+    company: "",
+    description:
+      "Worked on various freelance projects, including web development and Auth integrations . Gained experience in client communication, project management, and delivering high-quality results.",
+  },
 ];
 
 const AboutSection = () => {

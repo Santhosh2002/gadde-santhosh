@@ -76,7 +76,8 @@ const Footer = () => {
             <ul className="space-y-2">
               <li>
                 <a
-                  href="#"
+                  href="https://www.linkedin.com/in/sai-santhosh-gadde-3092a61ba"
+                  target="_blank"
                   className="text-gray-400 hover:text-white transition-colors"
                 >
                   LinkedIn
@@ -84,7 +85,8 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="https://github.com/Santhosh2002"
+                  target="_blank"
                   className="text-gray-400 hover:text-white transition-colors"
                 >
                   GitHub
@@ -92,7 +94,8 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="https://x.com/gadde_santhosh"
+                  target="_blank"
                   className="text-gray-400 hover:text-white transition-colors"
                 >
                   Twitter
@@ -100,18 +103,11 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="https://www.instagram.com/_santhosh10"
+                  target="_blank"
                   className="text-gray-400 hover:text-white transition-colors"
                 >
                   Instagram
-                </a>
-              </li>
-              <li>
-                <a
-                  href="#"
-                  className="text-gray-400 hover:text-white transition-colors"
-                >
-                  Dribbble
                 </a>
               </li>
             </ul>

@@ -16,7 +16,18 @@ type Achievement = {
 const achievements: Achievement[] = [
   {
     id: 1,
-    title: "Best Employee Award",
+    title: "Best Employee Award 2025",
+    organization: "Reccopilot Inc.",
+    date: "April 2025",
+    description:
+      "Recognized for exceptional performance and dedication to excellence in Engineering and Product Department at Reccopilot Inc for Q1 2025.",
+    certificateLink:
+      "https://www.linkedin.com/posts/sai-santhosh-gadde-3092a61ba_employeeofthequarter-q12025-gratitude-activity-7321799263007440896-dkJJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLxzDkBjsAB_s_0k7MZPITcugNFITPIrzA",
+    image: "./Q1-2025-Best-Performer.png",
+  },
+  {
+    id: 2,
+    title: "Best Employee Award 2024",
     organization: "Reccopilot Inc.",
     date: "January 2025",
     description:
@@ -26,7 +37,7 @@ const achievements: Achievement[] = [
     image: "./award.jpg",
   },
   {
-    id: 2,
+    id: 3,
     title: "Unstop Awards",
     organization: "Flipkart Inc.",
     date: "September 2023",
