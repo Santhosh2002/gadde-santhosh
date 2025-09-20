@@ -37,76 +37,102 @@ const getImageBrightness = (imageUrl: string): Promise<number> => {
 const projects = [
   {
     id: 1,
-    title: "E-Commerce Animation Suite",
-    category: "Professional Work",
+    title: "Fire and Smoke Detection CNN",
+    category: "Machine Learning",
     image:
-      "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+      "https://private-user-images.githubusercontent.com/77265502/255156337-e4fc4ef6-e17e-498a-a01a-78e1eba953a9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ0NjQ4MDgsIm5iZiI6MTc1NDQ2NDUwOCwicGF0aCI6Ii83NzI2NTUwMi8yNTUxNTYzMzctZTRmYzRlZjYtZTE3ZS00OThhLWEwMWEtNzhlMWViYTk1M2E5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA2VDA3MTUwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNjOTRhZDA0ZjhmMDUyM2JmYzhkZThhYmI3ZWZhNDVkZTc5MWQwZTIzYTBkNzkxMzMzN2ZkMjI5OWNmNGRhZmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YOr_etBb36b4A0rv4LYGeLny1M_ijYc_4mGmmhkybUM",
     description:
-      "Designed and developed a comprehensive animation library for a major e-commerce platform, improving user engagement by 32%.",
-    technologies: ["React", "Framer Motion", "SCSS", "Redux"],
+      "Developed a real-time fire and smoke detection system using advanced CNN architecture. Trained on 30,000+ curated images, achieving 95% accuracy and minimizing false alarms.",
+    technologies: ["Python", "CNN", "OpenCV", "TensorFlow"],
     liveUrl: "#",
     githubUrl: "#",
     textColor: "text-white",
   },
   {
     id: 2,
-    title: "Financial Dashboard",
-    category: "Professional Work",
-    image:
-      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-    description:
-      "Created an animated, real-time financial dashboard with interactive data visualizations and micro-interactions.",
-    technologies: ["React", "D3.js", "TypeScript", "Tailwind CSS"],
-    liveUrl: "#",
-    githubUrl: "#",
-    textColor: "text-white",
-  },
-  {
-    id: 3,
-    title: "Motion UI Kit",
-    category: "Freelance Projects",
-    image:
-      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
-    description:
-      "Developed a comprehensive UI kit with 50+ animated components for a design agency, significantly reducing development time.",
-    technologies: ["React", "GSAP", "Storybook", "Styled Components"],
-    liveUrl: "#",
-    githubUrl: "#",
-    textColor: "text-white",
-  },
-  {
-    id: 4,
-    title: "Blockchain Voting System",
-    category: "Personal Project",
+    title: "Online Voting System",
+    category: "Web3 Development",
     image: "./online-voting.png",
     description:
-      "Developed a decentralized voting system using blockchain technology, ensuring transparency and security in the voting process.",
+      "Developed a blockchain-based voting platform enabling remote and secure voting. Ensured 99.9% tamper-proof integrity and hybrid mode for online and offline voters.",
     technologies: ["React", "Solidity", "Web3.js", "Node.js"],
     liveUrl: "https://santhosh2002.github.io/Online-Voting-System",
     githubUrl: "https://github.com/Santhosh2002/OnlineVotingSystem",
     textColor: "text-white",
   },
   {
-    id: 5,
-    title: "Interactive Onboarding Flow",
-    category: "Freelance Projects",
+    id: 3,
+    title: "Pharmacy Management System",
+    category: "Java Development",
     image:
-      "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "https://user-images.githubusercontent.com/77265502/220199249-fb959e1d-e40f-45dd-8cf5-9cae37cc11d7.png",
     description:
-      "Designed and developed a gamified onboarding experience for a SaaS platform, increasing completion rates by 47%.",
-    technologies: ["React", "Lottie", "TypeScript", "Redux"],
+      "Built a JavaFX-based system for pharmacy operations including inventory and sales. Designed with MVC architecture and optimized SQL interactions for performance.",
+    technologies: ["Java", "JavaFX", "MySQL", "MVC"],
+    liveUrl: "https://github.com/Santhosh2002/PHARMACY-MANAGEMENT-SYSTEM",
+    githubUrl: "https://github.com/Santhosh2002/PHARMACY-MANAGEMENT-SYSTEM",
+    textColor: "text-white",
+  },
+  {
+    id: 4,
+    title: "E-Commerce Animation Suite",
+    category: "Professional Work",
+    image:
+      "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?auto=format&fit=crop&w=1074&q=80",
+    description:
+      "Designed and developed an animation library for a major e-commerce platform, improving user engagement by 32%.",
+    technologies: ["React", "Framer Motion", "SCSS", "Redux"],
+    liveUrl: "#",
+    githubUrl: "#",
+    textColor: "text-white",
+  },
+  {
+    id: 5,
+    title: "Financial Dashboard",
+    category: "Professional Work",
+    image:
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1170&q=80",
+    description:
+      "Built an animated, real-time financial dashboard with interactive visualizations and micro-interactions.",
+    technologies: ["React", "D3.js", "TypeScript", "Tailwind CSS"],
     liveUrl: "#",
     githubUrl: "#",
     textColor: "text-white",
   },
   {
     id: 6,
+    title: "Motion UI Kit",
+    category: "Freelance Projects",
+    image:
+      "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=1074&q=80",
+    description:
+      "Developed a UI kit with 50+ animated components for a design agency, reducing frontend development time.",
+    technologies: ["React", "GSAP", "Storybook", "Styled Components"],
+    liveUrl: "#",
+    githubUrl: "#",
+    textColor: "text-white",
+  },
+  {
+    id: 7,
+    title: "Interactive Onboarding Flow",
+    category: "Freelance Projects",
+    image:
+      "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?auto=format&fit=crop&w=1170&q=80",
+    description:
+      "Built a gamified onboarding experience for a SaaS platform, increasing completion rates by 47%.",
+    technologies: ["React", "Lottie", "TypeScript", "Redux"],
+    liveUrl: "#",
+    githubUrl: "#",
+    textColor: "text-white",
+  },
+  {
+    id: 8,
     title: "Animated Weather App",
     category: "Personal Animations",
     image:
-      "https://images.unsplash.com/photo-1592210454359-9043f067919b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "https://images.unsplash.com/photo-1592210454359-9043f067919b?auto=format&fit=crop&w=1170&q=80",
     description:
-      "Created a weather application with beautiful weather-based animations and smooth transitions between states.",
+      "Designed a weather app with stunning weather-based animations and transitions using GSAP and Canvas.",
     technologies: ["React", "Canvas API", "GSAP", "Weather API"],
     liveUrl: "#",
     githubUrl: "#",

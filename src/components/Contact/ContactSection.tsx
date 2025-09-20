@@ -14,8 +14,6 @@ import { toast } from "@/hooks/use-toast";
 
 const ContactSection = () => {
   const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    // In a real scenario, this would send the form data to a backend
     toast({
       title: "Message Sent!",
       description: "Thanks for reaching out. I'll get back to you soon!",
@@ -129,7 +127,12 @@ const ContactSection = () => {
             style={{ animationDelay: "300ms", animationFillMode: "forwards" }}
           >
             <h3 className="text-2xl font-semibold mb-6">Send Me a Message</h3>
-            <form onSubmit={handleSubmit} className="space-y-6">
+            <form
+              action="https://formsubmit.co/saisanthoshgadde2002@gmail.com"
+              method="POST"
+              onSubmit={handleSubmit}
+              className="space-y-6"
+            >
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div className="space-y-2">
                   <label
@@ -141,6 +144,7 @@ const ContactSection = () => {
                   <input
                     type="text"
                     id="name"
+                    name="name"
                     className="w-full px-4 py-3 bg-portfolio-gray/50 border border-white/10 rounded-lg focus:outline-none focus:border-portfolio-teal text-white"
                     required
                   />
@@ -156,6 +160,7 @@ const ContactSection = () => {
                   <input
                     type="email"
                     id="email"
+                    name="email"
                     className="w-full px-4 py-3 bg-portfolio-gray/50 border border-white/10 rounded-lg focus:outline-none focus:border-portfolio-teal text-white"
                     required
                   />
@@ -172,6 +177,7 @@ const ContactSection = () => {
                 <input
                   type="text"
                   id="subject"
+                  name="subject"
                   className="w-full px-4 py-3 bg-portfolio-gray/50 border border-white/10 rounded-lg focus:outline-none focus:border-portfolio-teal text-white"
                   required
                 />
@@ -187,11 +193,13 @@ const ContactSection = () => {
                 <textarea
                   id="message"
                   rows={6}
+                  name="message"
                   className="w-full px-4 py-3 bg-portfolio-gray/50 border border-white/10 rounded-lg focus:outline-none focus:border-portfolio-teal text-white resize-none"
                   required
                 ></textarea>
               </div>
-
+              <input type="hidden" name="_captcha" value="false" />
+              <input type="hidden" name="_template" value="box" />
               <button
                 type="submit"
                 className="px-8 py-3 bg-portfolio-teal text-black font-medium rounded-lg hover:bg-white transition-colors w-full md:w-auto"

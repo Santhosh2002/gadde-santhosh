@@ -1,5 +1,4 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Montserrat:wght@400;500;600;700;800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Montserrat:wght@400;500;600;700;800&display=swap");
 
 @tailwind base;
 @tailwind components;
@@ -9,7 +8,8 @@
   :root {
     --background: 240 10% 3.9%;
     --foreground: 0 0% 98%;
-
+    --glass-bg: hsla(0, 0%, 0%, 0.3);
+    --glass-bg-strong: hsla(0, 0%, 0%, 0.5);
     --card: 240 10% 3.9%;
     --card-foreground: 0 0% 98%;
 
@@ -42,24 +42,29 @@
     @apply border-border selection:bg-portfolio-teal/20 selection:text-white;
     scroll-behavior: smooth;
   }
-  
+
   body {
     @apply bg-portfolio-dark text-foreground font-sans antialiased overflow-x-hidden;
     font-feature-settings: "ss01", "ss02", "cv01", "cv02", "cv03";
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     @apply font-heading;
   }
 
   ::-webkit-scrollbar {
     @apply w-1.5;
   }
-  
+
   ::-webkit-scrollbar-track {
     @apply bg-portfolio-gray;
   }
-  
+
   ::-webkit-scrollbar-thumb {
     @apply bg-portfolio-teal/50 hover:bg-portfolio-teal transition-colors rounded-full;
   }
@@ -69,15 +74,15 @@
   .glass-card {
     @apply backdrop-blur-xl bg-white/5 border border-white/10 shadow-lg;
   }
-  
+
   .neo-blur {
     @apply backdrop-blur-2xl bg-portfolio-gray/80 border border-white/10 rounded-lg;
   }
-  
+
   .text-gradient {
     @apply bg-gradient-to-r from-portfolio-teal to-portfolio-purple bg-clip-text text-transparent;
   }
-  
+
   .section-container {
     @apply w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 relative;
   }
@@ -91,11 +96,15 @@
   }
 
   .section-heading::after {
-    content: '';
+    content: "";
     @apply block absolute -bottom-3 left-0 h-1 w-16 bg-portfolio-teal rounded-full;
   }
 }
-
+.glass-card-strong {
+  @apply glass-card;
+  background: linear-gradient(135deg, var(--glass-bg-strong), var(--glass-bg));
+  backdrop-filter: blur(20px);
+}
 /* Animation delay utilities */
 .animation-delay-100 {
   animation-delay: 100ms;

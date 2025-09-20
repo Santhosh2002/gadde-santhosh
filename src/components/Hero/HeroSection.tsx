@@ -61,7 +61,7 @@ const HeroSection = () => {
   return (
     <section
       id="home"
-      className="relative h-screen flex items-center justify-center overflow-hidden"
+      className="relative lg:h-screen sm:h-full flex lg:items-center sm:items-start pt-24 justify-center overflow-hidden"
     >
       {/* Background elements */}
       <div className="absolute inset-0">
@@ -132,9 +132,9 @@ const HeroSection = () => {
                 <div className="absolute -inset-6 bg-gradient-to-r rounded-full blur opacity-50 animate-pulse"></div>
 
                 <Avatar className="w-80 h-80 sm:w-80 sm:h-80 border-4 border-portfolio-teal shadow-lg shadow-portfolio-teal/20 cursor-pointer bg-transparent">
-                  <AvatarImage src="./pixar1.png" />
+                  <AvatarImage src="./professional-dp.png" />
                   <AvatarFallback className="bg-portfolio-gray text-5xl font-bold">
-                    JS
+                    SS
                   </AvatarFallback>
                 </Avatar>
                 <div className=" mt-4 flex flex-col space-y-2 glass-card w-80 z-50 rounded-md border bg-popover p-4 text-popover-foreground shadow-md outline-none data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-95 data-[side=bottom]:slide-in-from-top-2 data-[side=left]:slide-in-from-right-2 data-[side=right]:slide-in-from-left-2 data-[side=top]:slide-in-from-bottom-2">
