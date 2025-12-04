@@ -115,7 +115,7 @@ const HeroSection = () => {
                   View My Work
                 </a>
                 <a
-                  href="#contact"
+                  href="#about"
                   className="px-8 py-3 bg-transparent border border-white/20 text-white font-medium rounded-full hover:bg-white/10 transition-colors"
                 >
                   About Me
