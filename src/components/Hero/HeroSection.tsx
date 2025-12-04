@@ -87,24 +87,25 @@ const HeroSection = () => {
             <div className="md:col-span-3 text-left">
               <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-6 animate-fade-in-up animation-delay-200">
                 <AnimatedText
-                  text="Creating digital"
+                  text="Solving problems"
                   className="block mb-2"
                   animation="fade-in-up"
                   delay={200}
                 />
                 <AnimatedText
-                  text="experiences with"
+                  text="with clean, efficient"
                   className="block mb-2"
                   animation="fade-in-up"
                   delay={300}
                 />
-                <span className="text-gradient">precision and elegance</span>
+                <span className="text-gradient">and modern code</span>
               </h1>
 
               <p className="text-gray-400 text-lg max-w-xl mb-8 animate-fade-in-up animation-delay-400">
-                I craft interfaces that tell stories through motion and code,
-                bringing digital products to life with both technical precision
-                and artistic sensibility.
+                As a Software Engineer, I thrive on tackling difficult technical
+                challenges. I specialize in building performant backend services
+                and developing logical architectures that stand the test of
+                time.
               </p>
 
               <div className="flex flex-wrap gap-4 animate-fade-in-up animation-delay-500">

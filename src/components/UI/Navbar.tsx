@@ -84,10 +84,7 @@ const Navbar = () => {
       {/* Header */}
       <header
         className={cn(
-          "fixed top-0 left-0 right-0 z-50 transition-all duration-600 ease-in-out md:w-[80%] w-[95%] mt-5 mx-auto rounded-2xl",
-          isScrolled
-            ? "glass-card-strong py-4 shadow-2xl "
-            : "py-4 bg-transparent "
+          "fixed top-0 left-0 right-0 z-50 transition-all duration-600 ease-in-out md:w-[70%] w-[80%] mt-5 mx-auto rounded-2xl glass-card-strong py-4 shadow-2xl "
         )}
       >
         <div
