@@ -54,8 +54,8 @@ const Index = () => {
       <EducationSection />
       <PortfolioSection />
       <FreelanceSection />
-      <AnimationsGallery />
-      <TestimonialsSection />
+      {/* <AnimationsGallery />
+      <TestimonialsSection /> */}
       <AchievementsSection />
       <ResumeSection />
       {/* <BlogSection /> */}

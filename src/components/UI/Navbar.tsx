@@ -1,24 +1,20 @@
 import React, { useState, useEffect, useRef } from "react";
 import { cn } from "@/lib/utils";
 import { Menu, X, ArrowUp } from "lucide-react";
-import { redirect } from "react-router-dom";
+import { redirect, useNavigate } from "react-router-dom";
 
 const navLinks = [
   { name: "Home", href: "#home" },
   { name: "About", href: "#about" },
   { name: "Skills", href: "#skills" },
   {
-    name: "Portfolio",
-    href: "#portfolio",
-    subLinks: [
-      { name: "Education", href: "#education" },
-      { name: "Freelance", href: "#freelance" },
-      { name: "Animations", href: "#animations" },
-      { name: "Achievements", href: "#achievements" },
-      { name: "Resume", href: "#resume" },
-    ],
+    name: "Projects",
+    href: "#projects",
   },
-  { name: "Contact", href: "#contact" },
+  {
+    name: "Freelance",
+    href: "#freelance",
+  },
 ];
 
 const Navbar = () => {
@@ -30,7 +26,7 @@ const Navbar = () => {
     null
   );
   const mobileMenuRef = useRef<HTMLDivElement>(null);
-
+  const navigate = useNavigate();
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
       if (
@@ -123,10 +119,9 @@ const Navbar = () => {
                   {link.name}
                 </a>
 
-                {/* Desktop Dropdown */}
-                {link.subLinks && openDropdown === link.name && (
+                {/* {link?.subLinks && openDropdown === link.name && (
                   <div className="absolute top-full left-0 w-56 rounded-xl shadow-lg z-50 bg-portfolio-dark/80 backdrop-blur-lg border border-white/10">
-                    {link.subLinks.map((subLink) => (
+                    {link.subLinks?.map((subLink) => (
                       <a
                         key={subLink.name}
                         href={subLink.href}
@@ -137,20 +132,25 @@ const Navbar = () => {
                       </a>
                     ))}
                   </div>
-                )}
+                )} */}
               </div>
             ))}
           </nav>
           <div className="flex items-center space-x-4">
-            <button
+            {/* <button
               className="hidden md:inline-block px-5 py-1.5 bg-transparent border border-teal-600 text-white font-medium rounded-xl hover:bg-white/10 transition-colors"
-              onClick={() => redirect("/services")}
+              onClick={() => navigate("/services")}
             >
               Services
-            </button>
-            <button className="hidden md:inline-block px-5 py-1.5 bg-portfolio-teal text-black font-medium rounded-xl hover:bg-white transition-colors">
-              Hire Me
-            </button>
+            </button> */}
+            <a
+              className="hidden md:inline-block px-5 py-1.5 bg-portfolio-teal text-black font-medium rounded-xl hover:bg-white transition-colors"
+              key={"contact"}
+              href={"#contact"}
+              onClick={handleAnchorClick}
+            >
+              Contact Me
+            </a>
           </div>
 
           {/* Mobile Menu Button */}
@@ -175,11 +175,12 @@ const Navbar = () => {
               <div key={link.name} className="w-full">
                 <button
                   onClick={() => {
-                    link.subLinks
-                      ? setOpenMobileDropdown((prev) =>
-                          prev === link.name ? null : link.name
-                        )
-                      : setIsMobileMenuOpen((prev) => !prev);
+                    // link.subLinks
+                    //   ? setOpenMobileDropdown((prev) =>
+                    //       prev === link.name ? null : link.name
+                    //     )
+                    //   :
+                    setIsMobileMenuOpen((prev) => !prev);
                   }}
                   className="text-lg font-medium text-gray-300 hover:text-portfolio-teal transition-colors w-full text-left"
                 >
@@ -187,7 +188,7 @@ const Navbar = () => {
                 </button>
 
                 {/* SubLinks if available */}
-                {link.subLinks && openMobileDropdown === link.name && (
+                {/* {link.subLinks && openMobileDropdown === link.name && (
                   <div className="mt-2 ml-4 space-y-4">
                     {link.subLinks.map((subLink) => (
                       <a
@@ -200,7 +201,7 @@ const Navbar = () => {
                       </a>
                     ))}
                   </div>
-                )}
+                )} */}
               </div>
             ))}
           </nav>

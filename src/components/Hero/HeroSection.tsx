@@ -109,7 +109,7 @@ const HeroSection = () => {
 
               <div className="flex flex-wrap gap-4 animate-fade-in-up animation-delay-500">
                 <a
-                  href="#portfolio"
+                  href="#projects"
                   className="px-8 py-3 bg-portfolio-teal text-black font-medium rounded-full hover:bg-white transition-colors"
                 >
                   View My Work

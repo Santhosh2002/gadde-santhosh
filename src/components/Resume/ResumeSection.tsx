@@ -6,7 +6,7 @@ import { Download, Eye, FileText } from "lucide-react";
 const ResumeSection = () => {
   const [isViewerOpen, setIsViewerOpen] = useState(false);
   const resumeUrl =
-    "https://drive.google.com/file/d/1au7eYMfFght7oqzXYFg4sEaTtcMaCC_Z/view?usp=sharing"; // Replace with actual resume URL
+    "https://drive.google.com/file/d/1tmjbaeGZJFv8vNXVkoKdgEVtlDSxX6n0/view?usp=sharing"; // Replace with actual resume URL
 
   return (
     <section
@@ -72,7 +72,7 @@ const ResumeSection = () => {
                   <div className="w-full h-full flex items-center justify-center bg-portfolio-dark rounded">
                     {/* Replace with actual PDF viewer or iframe */}
                     <iframe
-                      src="https://drive.google.com/file/d/1au7eYMfFght7oqzXYFg4sEaTtcMaCC_Z/preview"
+                      src="https://drive.google.com/file/d/1tmjbaeGZJFv8vNXVkoKdgEVtlDSxX6n0/preview"
                       width="100%"
                       height="100%"
                       allow="autoplay"

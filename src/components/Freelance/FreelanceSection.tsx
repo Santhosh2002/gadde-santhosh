@@ -32,10 +32,23 @@ type FreelanceProject = {
 const freelanceProjects: FreelanceProject[] = [
   {
     id: 1,
-    title: "Office Core SSO",
+    title: "Multi Channel AI Agent For a Property Management SaaS",
+    client: "LetQuikly (US Based)",
+    description:
+      "Developed an AI-powered multi-channel communication agent for LetQuikly, a property management SaaS platform. The agent integrates with email, SMS, and chat platforms to provide automated responses and support to users, enhancing customer engagement and satisfaction.",
+    testimonial:
+      "The AI agent has transformed our customer support operations. It's efficient, responsive, and has significantly improved our user engagement across multiple channels.",
+    clientName: "Mr Raghu",
+    clientPosition: "Owner, LetQuikly",
+    image: "./letquickly-chat.png",
+    link: "https://letquickly.ai",
+  },
+  {
+    id: 2,
+    title: "Single Sign-On (SSO) System Development",
     client: "Office Core Inc.",
     description:
-      "An auth system for Office Core's web applications, integrating with existing systems and enhancing security protocols. with Single Sign-On (SSO) capabilities. allowing users to access multiple applications with a single set of credentials.",
+      "Implemented a robust Single Sign-On (SSO) system for Office Core Inc., allowing users to access multiple applications with a single set of credentials. This project involved integrating various identity providers and ensuring secure authentication protocols.",
     testimonial:
       "The SSO system has streamlined our user experience and significantly improved security. The integration was seamless, and the team was highly responsive to our needs.",
     clientName: "Lagvendra",
@@ -43,22 +56,24 @@ const freelanceProjects: FreelanceProject[] = [
     image: "./freelance-officecore.png",
   },
   {
-    id: 2,
-    title: "Real Estate Website Development & SEO Optimization",
+    id: 3,
+    title:
+      "Responsive Website Development for Real Estate Firm RK Realtors & Consultants",
     client: "RK Realtors & Consultants",
     description:
-      "Designed and developed a modern, responsive website for a real estate firm, featuring property listings, lead capture forms, and SEO-optimized content to improve online visibility.",
+      "Created a modern, responsive website for RK Realtors & Consultants to showcase their property listings and services. The website features an intuitive design, easy navigation, and is optimized for both desktop and mobile devices.",
     testimonial:
       "The new website truly elevated our brand. Clients now find us more easily, and the clean design helps them navigate listings effortlessly.",
     clientName: "Rahul",
     clientPosition: "Board Member, RK Realtors",
     image: "./rk-freelance.png",
-    link: "https://www.rkrealco.com",
+    link: "https://realtors-consultants.vercel.app",
   },
 
   {
-    id: 3,
-    title: "Login/Sigup, Google Authentication",
+    id: 4,
+    title:
+      "Authentication System with Google OAuth Integration & Security Enhancements",
     client: "MyLynk",
     description:
       "Developed a secure login/signup system with Google authentication for MyLynk's web application. This feature enhances user experience by allowing users to log in using their Google accounts, streamlining the registration process.",
@@ -131,7 +146,7 @@ const FreelanceSection = () => {
                           target="_blank"
                           rel="noopener noreferrer"
                         >
-                          View Project <ExternalLink size={14} />
+                          View Project Demo <ExternalLink size={14} />
                         </a>
                       </CardFooter>
                     )}

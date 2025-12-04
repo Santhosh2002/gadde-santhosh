@@ -16,7 +16,18 @@ type Achievement = {
 const achievements: Achievement[] = [
   {
     id: 1,
-    title: "Best Employee Award 2025",
+    title: "Best Employee Award 2025 (Q2)",
+    organization: "Reccopilot Inc.",
+    date: "August 2025",
+    description:
+      "Recognized for exceptional performance and dedication to excellence in Engineering and Product Department at Reccopilot Inc for Q2 2025.",
+    certificateLink:
+      "https://www.linkedin.com/posts/sai-santhosh-gadde-3092a61ba_employeeofthequarter-q22025-gratitude-activity-7365723888619503616--5wo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLxzDkBjsAB_s_0k7MZPITcugNFITPIrzA",
+    image: "./Q2-Best-Performer.jpeg",
+  },
+  {
+    id: 2,
+    title: "Best Employee Award 2025 (Q1)",
     organization: "Reccopilot Inc.",
     date: "April 2025",
     description:
@@ -26,8 +37,8 @@ const achievements: Achievement[] = [
     image: "./Q1-2025-Best-Performer.png",
   },
   {
-    id: 2,
-    title: "Best Employee Award 2024",
+    id: 3,
+    title: "Best Employee Award 2024 (Q4)",
     organization: "Reccopilot Inc.",
     date: "January 2025",
     description:
@@ -37,7 +48,7 @@ const achievements: Achievement[] = [
     image: "./award.jpg",
   },
   {
-    id: 3,
+    id: 4,
     title: "Unstop Awards",
     organization: "Flipkart Inc.",
     date: "September 2023",
@@ -51,10 +62,7 @@ const achievements: Achievement[] = [
 
 const AchievementsSection = () => {
   return (
-    <section
-      id="achievements"
-      className="py-24 bg-portfolio-dark relative overflow-hidden"
-    >
+    <section id="achievements" className="py-24 bg-portfolio-dark relative">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <AnimatedText

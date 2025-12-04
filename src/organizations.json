@@ -1,0 +1,5571 @@
+[
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68259a9c6b704420726ca40e",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "gaurav.11@gaurav.com",
+        "phoneNumber": "+918529498702"
+      },
+      "emailDomain": "gaurav.com",
+      "id": "68259a9c6b704420726ca40e",
+      "creationDate": "2025-05-15T07:41:16.1748163Z",
+      "ownedById": "68259a9c6b704420726ca40d",
+      "organizationId": "68259a9c6b704420726ca40e"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "682707aaf126f40c71a7d87d",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "gimomil941@daupload.com",
+        "phoneNumber": "+919920594378"
+      },
+      "emailDomain": "daupload.com",
+      "id": "682707aaf126f40c71a7d87d",
+      "creationDate": "2025-05-16T09:38:50.6026819Z",
+      "ownedById": "682707aaf126f40c71a7d87c",
+      "organizationId": "682707aaf126f40c71a7d87d"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68490cde30325a552ddd4e6d",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "yjm12zf2zvhlu0z678@innovations.edu.pl",
+        "phoneNumber": "+213794508847"
+      },
+      "emailDomain": "innovations.edu.pl",
+      "id": "68490cde30325a552ddd4e6d",
+      "creationDate": "2025-06-11T04:58:06.6063677Z",
+      "ownedById": "68490cde30325a552ddd4e6c",
+      "organizationId": "68490cde30325a552ddd4e6d"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "685031b8ae3c0fed015c855d",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "varshith@inboxbear.com",
+        "phoneNumber": "9704091268"
+      },
+      "emailDomain": "inboxbear.com",
+      "id": "685031b8ae3c0fed015c855d",
+      "creationDate": "2025-06-16T15:01:12.3025190Z",
+      "ownedById": "685031b8ae3c0fed015c855c",
+      "organizationId": "685031b8ae3c0fed015c855d"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68502fd8850cd026fe658f41",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "santhosh@temptami.com",
+        "phoneNumber": "9515871972"
+      },
+      "emailDomain": "temptami.com",
+      "id": "68502fd8850cd026fe658f41",
+      "creationDate": "2025-06-16T14:53:12.6055138Z",
+      "ownedById": "68502fd8850cd026fe658f40",
+      "organizationId": "68502fd8850cd026fe658f41"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6847df0130325a552ddd3f7b",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "hr@coderepoz.com",
+        "phoneNumber": "+916786893557"
+      },
+      "emailDomain": "coderepoz.com",
+      "id": "6847df0130325a552ddd3f7b",
+      "creationDate": "2025-06-10T07:30:09.1431025Z",
+      "ownedById": "6847df0130325a552ddd3f7a",
+      "organizationId": "6847df0130325a552ddd3f7b"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6850348aae3c0fed015c8bbc",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "jahnavi@vomoto.com",
+        "phoneNumber": "7729919523"
+      },
+      "emailDomain": "vomoto.com",
+      "id": "6850348aae3c0fed015c8bbc",
+      "creationDate": "2025-06-16T15:13:14.3983291Z",
+      "ownedById": "6850348aae3c0fed015c8bbb",
+      "organizationId": "6850348aae3c0fed015c8bbc"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6851af93fe1526a4d35b21b5",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "testing@eins.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "eins.com",
+      "id": "6851af93fe1526a4d35b21b5",
+      "creationDate": "2025-06-17T18:10:27.2275339Z",
+      "ownedById": "6851af93fe1526a4d35b21b4",
+      "organizationId": "6851af93fe1526a4d35b21b5"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6851b23efe1526a4d35b2e2b",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "test-wik3jnkb5@srv1.mail-tester.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "srv1.mail-tester.com",
+      "id": "6851b23efe1526a4d35b2e2b",
+      "creationDate": "2025-06-17T18:21:50.4418722Z",
+      "ownedById": "6851b23efe1526a4d35b2e2a",
+      "organizationId": "6851b23efe1526a4d35b2e2b"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6851bac0fe1526a4d35b4756",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "test-161589@test.mailgenius.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "test.mailgenius.com",
+      "id": "6851bac0fe1526a4d35b4756",
+      "creationDate": "2025-06-17T18:58:08.6376581Z",
+      "ownedById": "6851bac0fe1526a4d35b4755",
+      "organizationId": "6851bac0fe1526a4d35b4756"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6851bc89b6282c983325bf51",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "varshith@inboxbeasr.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "inboxbeasr.com",
+      "id": "6851bc89b6282c983325bf51",
+      "creationDate": "2025-06-17T19:05:45.4653120Z",
+      "ownedById": "6851bc89b6282c983325bf50",
+      "organizationId": "6851bc89b6282c983325bf51"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6851b822fe1526a4d35b4749",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "testing@infod.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "infod.com",
+      "id": "6851b822fe1526a4d35b4749",
+      "creationDate": "2025-06-17T18:46:58.9176176Z",
+      "ownedById": "6851b822fe1526a4d35b4748",
+      "organizationId": "6851b822fe1526a4d35b4749"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6851be89fe1526a4d35b48f4",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "testing@tezsss.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "tezsss.com",
+      "id": "6851be89fe1526a4d35b48f4",
+      "creationDate": "2025-06-17T19:14:17.5955860Z",
+      "ownedById": "6851be89fe1526a4d35b48f3",
+      "organizationId": "6851be89fe1526a4d35b48f4"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6851befefe1526a4d35b491b",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "testing@tezzza.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "tezzza.com",
+      "id": "6851befefe1526a4d35b491b",
+      "creationDate": "2025-06-17T19:16:14.9878156Z",
+      "ownedById": "6851befefe1526a4d35b491a",
+      "organizationId": "6851befefe1526a4d35b491b"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6851b783fe1526a4d35b473e",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "testing@ingg.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "ingg.com",
+      "id": "6851b783fe1526a4d35b473e",
+      "creationDate": "2025-06-17T18:44:19.9119104Z",
+      "ownedById": "6851b783fe1526a4d35b473d",
+      "organizationId": "6851b783fe1526a4d35b473e"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6851c1edfe1526a4d35b493f",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "testing@tessssttz.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "tessssttz.com",
+      "id": "6851c1edfe1526a4d35b493f",
+      "creationDate": "2025-06-17T19:28:45.6167787Z",
+      "ownedById": "6851c1edfe1526a4d35b493e",
+      "organizationId": "6851c1edfe1526a4d35b493f"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6852559a395714294c29b693",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "jahnavi@getmule.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "getmule.com",
+      "id": "6852559a395714294c29b693",
+      "creationDate": "2025-06-18T05:58:50.2931637Z",
+      "ownedById": "6852559a395714294c29b692",
+      "organizationId": "6852559a395714294c29b693"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6851bfa4fe1526a4d35b4927",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "testing@tessss.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "tessss.com",
+      "id": "6851bfa4fe1526a4d35b4927",
+      "creationDate": "2025-06-17T19:19:00.7328454Z",
+      "ownedById": "6851bfa4fe1526a4d35b4926",
+      "organizationId": "6851bfa4fe1526a4d35b4927"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6852f5f1395714294c29eb13",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "0126it191086@oriental.ac.in",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "oriental.ac.in",
+      "id": "6852f5f1395714294c29eb13",
+      "creationDate": "2025-06-18T17:22:57.8953989Z",
+      "ownedById": "6852f5f1395714294c29eb12",
+      "organizationId": "6852f5f1395714294c29eb13"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6852f767395714294c29f76f",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "123@Test.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "Test.com",
+      "id": "6852f767395714294c29f76f",
+      "creationDate": "2025-06-18T17:29:11.4994457Z",
+      "ownedById": "6852f767395714294c29f76e",
+      "organizationId": "6852f767395714294c29f76f"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "688298c2634f03365c49603b",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "hammad@theopportunitynext.com",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 99,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "theopportunitynext.com",
+      "id": "688298c2634f03365c49603b",
+      "creationDate": "2025-07-24T20:34:11.4277695Z",
+      "ownedById": "688298c2634f03365c49603a",
+      "organizationId": "688298c2634f03365c49603b"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68831033634f03365c4966cd",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "melissa.n@aislingconsulting.com",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 100,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "aislingconsulting.com",
+      "id": "68831033634f03365c4966cd",
+      "creationDate": "2025-07-25T05:03:47.9656106Z",
+      "ownedById": "68831033634f03365c4966cc",
+      "organizationId": "68831033634f03365c4966cd"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68831b83634f03365c4968ab",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "202051068@iiitvadodara.ac.in",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 101,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "iiitvadodara.ac.in",
+      "id": "68831b83634f03365c4968ab",
+      "creationDate": "2025-07-25T05:52:03.4543359Z",
+      "ownedById": "68831b83634f03365c4968aa",
+      "organizationId": "68831b83634f03365c4968ab"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6888c81d4e3da8640e0c745c",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "chetan@chetan.com",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 444,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "chetan.com",
+      "id": "6888c81d4e3da8640e0c745c",
+      "creationDate": "2025-07-29T13:09:49.3009332Z",
+      "ownedById": "6888c81d4e3da8640e0c745b",
+      "organizationId": "6888c81d4e3da8640e0c745c"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68947b71d3268583ffe16882",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "arlavarshith@amityonline.com",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 458,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "amityonline.com",
+      "id": "68947b71d3268583ffe16882",
+      "creationDate": "2025-08-07T10:09:53.9264848Z",
+      "ownedById": "68947b71d3268583ffe16881",
+      "organizationId": "68947b71d3268583ffe16882"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68946dadd3268583ffe167bd",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "rukesh.s@dataagrokr.co",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 457,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "dataagrokr.co",
+      "id": "68946dadd3268583ffe167bd",
+      "creationDate": "2025-08-07T09:11:09.9131655Z",
+      "ownedById": "68946dadd3268583ffe167bc",
+      "organizationId": "68946dadd3268583ffe167bd"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68948123d3268583ffe1697a",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "mansi.chauhan@go-mmt.com",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 459,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "go-mmt.com",
+      "id": "68948123d3268583ffe1697a",
+      "creationDate": "2025-08-07T10:34:11.4892552Z",
+      "ownedById": "68948123d3268583ffe16979",
+      "organizationId": "68948123d3268583ffe1697a"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "689afd5ad3268583ffe1cf98",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "rajesh@riga",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 470,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "riga",
+      "id": "689afd5ad3268583ffe1cf98",
+      "creationDate": "2025-08-12T08:37:46.9062785Z",
+      "ownedById": "689afd5ad3268583ffe1cf97",
+      "organizationId": "689afd5ad3268583ffe1cf98"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "685ba44cd44b635a7b0b74c1",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "2211cs020005@mallareddyuniversity.ac.in",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "mallareddyuniversity.ac.in",
+      "id": "685ba44cd44b635a7b0b74c1",
+      "creationDate": "2025-06-25T07:25:00.4270012Z",
+      "ownedById": "685ba44cd44b635a7b0b74c0",
+      "organizationId": "685ba44cd44b635a7b0b74c1"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6853cea9395714294c2a0433",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "1234@test.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "test.com",
+      "id": "6853cea9395714294c2a0433",
+      "creationDate": "2025-06-19T08:47:37.5249942Z",
+      "ownedById": "6853cea9395714294c2a0432",
+      "organizationId": "6853cea9395714294c2a0433"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "685953b8d44b635a7b0b383a",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "1234@test",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "test",
+      "id": "685953b8d44b635a7b0b383a",
+      "creationDate": "2025-06-23T13:16:40.9891955Z",
+      "ownedById": "685953b8d44b635a7b0b3839",
+      "organizationId": "685953b8d44b635a7b0b383a"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "685c1887e8670dda49e537e2",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "varshith@captcha",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "captcha",
+      "id": "685c1887e8670dda49e537e2",
+      "creationDate": "2025-06-25T15:40:55.2959922Z",
+      "ownedById": "685c1887e8670dda49e537e1",
+      "organizationId": "685c1887e8670dda49e537e2"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6866ab83d45abbc14612dec5",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "harshavudayagiri1319@gmail.cim",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "gmail.cim",
+      "id": "6866ab83d45abbc14612dec5",
+      "creationDate": "2025-07-03T16:10:43.9585322Z",
+      "ownedById": "6866ab83d45abbc14612dec4",
+      "organizationId": "6866ab83d45abbc14612dec5"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "686b6436367e647f2ef05f3c",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "vr1269@srmist.edu.in",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "srmist.edu.in",
+      "id": "686b6436367e647f2ef05f3c",
+      "creationDate": "2025-07-07T06:07:50.7479193Z",
+      "ownedById": "686b6436367e647f2ef05f3b",
+      "organizationId": "686b6436367e647f2ef05f3c"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "686bfd5b367e647f2ef0a153",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "226w1a0564@ists.ac.in",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "ists.ac.in",
+      "id": "686bfd5b367e647f2ef0a153",
+      "creationDate": "2025-07-07T17:01:15.9531908Z",
+      "ownedById": "686bfd5b367e647f2ef0a152",
+      "organizationId": "686bfd5b367e647f2ef0a153"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "688cd50aff52681ab6e32df3",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "Waheguru@13",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 452,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "13",
+      "id": "688cd50aff52681ab6e32df3",
+      "creationDate": "2025-08-01T14:54:03.2966267Z",
+      "ownedById": "688cd50aff52681ab6e32df2",
+      "organizationId": "688cd50aff52681ab6e32df3"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "688cd5c0ff52681ab6e32ece",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "test@11",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 453,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "11",
+      "id": "688cd5c0ff52681ab6e32ece",
+      "creationDate": "2025-08-01T14:57:05.1726799Z",
+      "ownedById": "688cd5c0ff52681ab6e32ecd",
+      "organizationId": "688cd5c0ff52681ab6e32ece"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6870d351122baa27ccc2aad9",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "wecoba1071@fenexy.com",
+        "phoneNumber": "7729919523",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.stopforumspam.com"
+      },
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "fenexy.com",
+      "id": "6870d351122baa27ccc2aad9",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "6870d351122baa27ccc2aad8",
+      "organizationId": "6870d351122baa27ccc2aad9",
+      "bannerUrl": "",
+      "name": "Stop Forum Spam Domain Report for fenexy.com",
+      "founded": "",
+      "modifiedDate": "2025-07-11T09:20:51.6682237Z",
+      "description": "Home Domain - fenexy.com. Details. fenexy.com appears in our database 6 times. Details. Abuse History. Date. 4-Jul-25 22:13. IP Address. 212.15.80.14.",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "onDeskOrganizationId": 0,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6888e697384d481c0975f950",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "deekshith.naik@mediassist.in",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "mediassist.in"
+      },
+      "onDeskOrganizationId": 445,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "mediassist.in",
+      "id": "6888e697384d481c0975f950",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "6888e697384d481c0975f94f",
+      "organizationId": "6888e697384d481c0975f950",
+      "bannerUrl": "",
+      "founded": "",
+      "description": "Premium medical insurance administration powered by operational excellence and technology! Medi Assist is your holistic solution for healthcare services.",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Medi Assist - Healthcare Services",
+      "modifiedDate": "2025-07-29T15:25:35.7684794Z",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68895762384d481c09760491",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "dan@empowerassociates.com",
+        "phoneNumber": "4807800845",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "empowerassociates.com"
+      },
+      "onDeskOrganizationId": 446,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "empowerassociates.com",
+      "id": "68895762384d481c09760491",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68895762384d481c09760490",
+      "organizationId": "68895762384d481c09760491",
+      "bannerUrl": "",
+      "founded": "2018",
+      "description": "A premier staffing and recruiting firm, our mission is to EMPOWER our clients with the most qualified, available talent to build their teams. For us, it's all about relationships. We understand the need to maintain relationships of trust with both our clients and candidates, who are equally important to us, as our entire business revolves around People, Process and Placement.",
+      "industry": "Recruiting",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Empower Associates",
+      "modifiedDate": "2025-07-29T23:33:07.6143952Z",
+      "location": {
+        "country": "United States",
+        "state": "Arizona"
+      },
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "688adce94e3da8640e0cb12f",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "dakota@globalbridgetalentgroup.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "globalbridgetalentgroup.com"
+      },
+      "onDeskOrganizationId": 448,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "globalbridgetalentgroup.com",
+      "id": "688adce94e3da8640e0cb12f",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "688adce94e3da8640e0cb12e",
+      "organizationId": "688adce94e3da8640e0cb12f",
+      "bannerUrl": "",
+      "founded": "",
+      "description": "GlobalBridge Talent Group is a premier provider of comprehensive workforce solutions, specializing in healthcare and multi-industry recruitment. With a strong focus on innovation and efficiency, GBTG leverages advanced AI recruitment tools, custom job boards, and global talent access to streamline hiring processes and connect organizations with top-tier professionals.\n\nOur service offerings span from executive recruitment and flexible staffing to end-to-end hiring support. We serve diverse industries, including marketing, creative design, technology, project management, and healthcare. GBTG’s tiered partnership model, automated compliance systems, and real-time analytics ensure scalable, predictable, and high-quality hiring outcomes.\n\nBacked by a mission to revolutionize workforce management, GBTG combines deep industry expertise with a technology-first approach to help organizations meet staffing goals faster, smarter, and with measurable ROI.",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "https://reccostorage.blob.core.windows.net/reccoprod-public/Create%20a%20logo%20for%20my%20company%20GlobalBridge%20Talent%20Group.%20I%20want%20to%20use%20black%20as%20the%20outline%20of%20a%20globe%20with%20gray%2C%20dark%20green%2C%20white%20and%20silver%20as%20the%20company%20colors.%20I%20want%20this%20logo%20to%20be%20business%20professional.%20Make%20this%20a%20digital%20logo%2C%20no%20card%20backg.jpg",
+      "name": "GlobalBridge Talent Group",
+      "modifiedDate": "2025-07-31T03:09:01.4381316Z",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "688bac4cff52681ab6e2e232",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "mabdela1@students.kennesaw.edu",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "ksumail.kennesaw.edu"
+      },
+      "onDeskOrganizationId": 450,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "students.kennesaw.edu",
+      "id": "688bac4cff52681ab6e2e232",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "688bac4cff52681ab6e2e231",
+      "organizationId": "688bac4cff52681ab6e2e232",
+      "bannerUrl": "",
+      "founded": "",
+      "description": "Students: [NetID]@students.kennesaw.edu. Faculty/Staff: [NetID]@kennesaw.edu. To change or reset your password, please visit NetID. This is a Kennesaw State ...",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "KSU Mail",
+      "modifiedDate": "2025-07-31T17:59:15.9571791Z",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "688baec4384d481c09778705",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "marci.markward@amnhealthcare.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.amnhealthcare.com"
+      },
+      "onDeskOrganizationId": 451,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "amnhealthcare.com",
+      "id": "688baec4384d481c09778705",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "688baec4384d481c09778704",
+      "organizationId": "688baec4384d481c09778705",
+      "bannerUrl": "",
+      "founded": "",
+      "description": "AMN Healthcare offers innovative staffing and total talent solutions. People are at the heart of everything you do as we empower the future of care.",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "AMN Healthcare: Healthcare Staffing Company",
+      "modifiedDate": "2025-07-31T17:59:49.5183665Z",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6891d71ed3268583ffe13120",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "dipesh.shrestha@berrybytes.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.berrybytes.com"
+      },
+      "onDeskOrganizationId": 454,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "berrybytes.com",
+      "id": "6891d71ed3268583ffe13120",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "6891d71ed3268583ffe1311f",
+      "organizationId": "6891d71ed3268583ffe13120",
+      "bannerUrl": "",
+      "founded": "",
+      "description": "Cloud-Powered Solutions for a Digital Future. Mastering Digital Transformation, Providing innovative solutions to drive your business forward.",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "BerryBytes – Cloud-Powered Solutions For A Digital Future",
+      "modifiedDate": "2025-08-05T10:08:27.2285159Z",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "689345ac9605256d95c803e7",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "shivam@consultadd.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.consultadd.com"
+      },
+      "onDeskOrganizationId": 456,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "consultadd.com",
+      "id": "689345ac9605256d95c803e7",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "689345ac9605256d95c803e6",
+      "organizationId": "689345ac9605256d95c803e7",
+      "bannerUrl": "",
+      "founded": "",
+      "description": "Consultadd is a premier technology staffing and solutions firm dedicated to connecting elite tech talent with leading companies across the United States. Established in 2010, Consultadd excels in providing tailored, scalable IT staffing solutions that drive client success through innovation, strategic collaboration, and unparalleled industry expertise. With offices in New York and India, Consultadd continues to strengthen its reputation as a trusted partner in delivering exceptional talent and measurable business results.",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Consultadd",
+      "modifiedDate": "2025-08-06T12:12:37.8918401Z",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6894a3d8d3268583ffe16ab8",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "rukesh.s@datagrokr.co",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "datagrokr.co"
+      },
+      "onDeskOrganizationId": 460,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "datagrokr.co",
+      "id": "6894a3d8d3268583ffe16ab8",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "6894a3d8d3268583ffe16ab7",
+      "organizationId": "6894a3d8d3268583ffe16ab8",
+      "bannerUrl": "",
+      "founded": "",
+      "description": "We are a technology consulting services firm that helps organizations make the most of their digital/data assets and IT/Cloud infrastructure. We assist organizations in leveraging technology for meeting their business goals.",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "DataGrokr",
+      "modifiedDate": "2025-08-07T13:33:24.4380101Z",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6894c935d3268583ffe179d3",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "info@cunardconsulting.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.cunardconsulting.com"
+      },
+      "onDeskOrganizationId": 461,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "cunardconsulting.com",
+      "id": "6894c935d3268583ffe179d3",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "6894c935d3268583ffe179d2",
+      "organizationId": "6894c935d3268583ffe179d3",
+      "bannerUrl": "",
+      "founded": "",
+      "description": "info@cunardconsulting.com. CONTACT US. Name. Email. Phone. Address. Subject ... Privacy Policy​. Terms & Conditions. Follow Us. ©2023 Cunard Consulting. \"Icon ...",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Contact | Cunard Consulting",
+      "modifiedDate": "2025-08-13T09:15:26.1816060Z",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6899fd20d3268583ffe1b6f0",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "GGaston@hgst.edu",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "https://www.linkedin.com/school/houstonseminary/",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.hgst.edu"
+      },
+      "onDeskOrganizationId": 467,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "hgst.edu",
+      "id": "6899fd20d3268583ffe1b6f0",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "6899fd20d3268583ffe1b6ef",
+      "organizationId": "6899fd20d3268583ffe1b6f0",
+      "bannerUrl": "",
+      "founded": "",
+      "description": "Houston Graduate School of Theology is a private Christian institution located in Houston, Texas. We are committed to providing high-quality theological education that equips and prepares individuals for ministry and leadership roles in the church and the world. Our core values include faithfulness, excellence, community, and stewardship.",
+      "industry": "Education",
+      "companySize": "",
+      "logoUrl": "https://reccostorage.blob.core.windows.net/reccoprod-public/hgst.png",
+      "name": "Houston Graduate School of Theology",
+      "modifiedDate": "2025-08-11T14:50:26.0105301Z",
+      "location": {
+        "country": "United States",
+        "state": "Houston"
+      },
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "689bb41dd3268583ffe1e210",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "kozaryna@red-sky.pl",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.red-sky.pl"
+      },
+      "onDeskOrganizationId": 473,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "red-sky.pl",
+      "id": "689bb41dd3268583ffe1e210",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "689bb41dd3268583ffe1e20f",
+      "organizationId": "689bb41dd3268583ffe1e210",
+      "bannerUrl": "",
+      "founded": "",
+      "description": "The largest polish startup studio company with a global monthly reach of over 150 000 000 users across a variety of tech products. We're hiring!",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Red Sky: Startup Studio",
+      "modifiedDate": "2025-08-12T21:39:56.9740443Z",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "689c37b3b50358a14c909800",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "nuri.syahfitri@benline.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.benline.com"
+      },
+      "onDeskOrganizationId": 474,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "benline.com",
+      "id": "689c37b3b50358a14c909800",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "689c37b3b50358a14c9097ff",
+      "organizationId": "689c37b3b50358a14c909800",
+      "bannerUrl": "",
+      "founded": "",
+      "description": "Delivering excellence in Agency and Logistics services across the Asia Pacific region. We craft services that provide effective solutions to all your Agency ...",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Ben Line | Home",
+      "modifiedDate": "2025-08-13T07:02:36.3216662Z",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "689c4706b50358a14c909f98",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "bilal@dgtdata.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "dgtdata.com"
+      },
+      "onDeskOrganizationId": 475,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "dgtdata.com",
+      "id": "689c4706b50358a14c909f98",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "689c4706b50358a14c909f97",
+      "organizationId": "689c4706b50358a14c909f98",
+      "bannerUrl": "",
+      "founded": "",
+      "description": "... About. Our mission · Our story · Career · Contact Us. Get In Touch. info@dgtdata.com; Saudi Arabia; +966 53 907 0966. Copyright © 2025. All Rights Reserved.",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Digital Data",
+      "modifiedDate": "2025-08-13T08:17:33.7968571Z",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6841fed668645605aa5643e2",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "mburra@globalitsolutionsinc.com",
+        "phoneNumber": "+16513385847"
+      },
+      "emailDomain": "globalitsolutionsinc.com",
+      "id": "6841fed668645605aa5643e2",
+      "creationDate": "2025-06-05T20:32:22.1277400Z",
+      "ownedById": "6841fed668645605aa5643e1",
+      "organizationId": "6841fed668645605aa5643e2",
+      "onDeskOrganizationId": 481,
+      "modifiedDate": "2025-08-14T15:58:51.3987068Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68503401ae3c0fed015c8613",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "andyjonesss@spicysoda.com",
+        "phoneNumber": "9704091265"
+      },
+      "emailDomain": "spicysoda.com",
+      "id": "68503401ae3c0fed015c8613",
+      "creationDate": "2025-06-16T15:10:57.3396115Z",
+      "ownedById": "68503401ae3c0fed015c8612",
+      "organizationId": "68503401ae3c0fed015c8613",
+      "onDeskOrganizationId": 483,
+      "modifiedDate": "2025-08-14T16:46:03.9788878Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6841ffc430325a552ddcaa90",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "hr@originhubs.com",
+        "phoneNumber": "+13027939401"
+      },
+      "emailDomain": "originhubs.com",
+      "id": "6841ffc430325a552ddcaa90",
+      "creationDate": "2025-06-05T20:36:20.1089792Z",
+      "ownedById": "6841ffc430325a552ddcaa8f",
+      "organizationId": "6841ffc430325a552ddcaa90",
+      "onDeskOrganizationId": 482,
+      "modifiedDate": "2025-08-14T15:58:52.9987392Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68259badf126f40c71a7ca7f",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "Gaurav@Gaurav.com",
+        "phoneNumber": "+917729919523"
+      },
+      "emailDomain": "Gaurav.com",
+      "id": "68259badf126f40c71a7ca7f",
+      "creationDate": "2025-05-15T07:45:49.6004311Z",
+      "ownedById": "68259badf126f40c71a7ca7e",
+      "organizationId": "68259badf126f40c71a7ca7f",
+      "onDeskOrganizationId": 480,
+      "modifiedDate": "2025-08-14T15:55:53.9679083Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "681af113aa7907b70f94858c",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "Rimmy@dell.com",
+        "phoneNumber": "+17477545767"
+      },
+      "emailDomain": "dell.com",
+      "id": "681af113aa7907b70f94858c",
+      "creationDate": "2025-05-07T05:35:15.5755119Z",
+      "ownedById": "681af113aa7907b70f94858b",
+      "organizationId": "681af113aa7907b70f94858c",
+      "onDeskOrganizationId": 479,
+      "modifiedDate": "2025-08-14T15:55:47.3666885Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6827396df126f40c71a7d92b",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "Pranathi@Pranathi.com"
+      },
+      "emailDomain": "Pranathi.com",
+      "id": "6827396df126f40c71a7d92b",
+      "creationDate": "2025-05-16T13:11:09.5875655Z",
+      "ownedById": "6827396df126f40c71a7d92a",
+      "organizationId": "6827396df126f40c71a7d92b",
+      "onDeskOrganizationId": 477,
+      "modifiedDate": "2025-08-14T15:52:59.8292161Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6851b4ccfe1526a4d35b3add",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "info@bigtobigger.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "bigtobigger.com",
+      "id": "6851b4ccfe1526a4d35b3add",
+      "creationDate": "2025-06-17T18:32:44.1898784Z",
+      "ownedById": "6851b4ccfe1526a4d35b3adc",
+      "organizationId": "6851b4ccfe1526a4d35b3add",
+      "onDeskOrganizationId": 491,
+      "modifiedDate": "2025-08-14T16:54:10.3147231Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68503581ae3c0fed015c9264",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "jahnavi@fivermail.com",
+        "phoneNumber": "7729919523"
+      },
+      "emailDomain": "fivermail.com",
+      "id": "68503581ae3c0fed015c9264",
+      "creationDate": "2025-06-16T15:17:21.8996323Z",
+      "ownedById": "68503581ae3c0fed015c9263",
+      "organizationId": "68503581ae3c0fed015c9264",
+      "onDeskOrganizationId": 484,
+      "modifiedDate": "2025-08-14T16:50:07.0717168Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68503674ae3c0fed015c9300",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "pawanovic@clowmail.com",
+        "phoneNumber": "1234567891"
+      },
+      "emailDomain": "clowmail.com",
+      "id": "68503674ae3c0fed015c9300",
+      "creationDate": "2025-06-16T15:21:24.7946907Z",
+      "ownedById": "68503674ae3c0fed015c92ff",
+      "organizationId": "68503674ae3c0fed015c9300",
+      "onDeskOrganizationId": 485,
+      "modifiedDate": "2025-08-14T16:50:35.7136348Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68503c18186f68f3c3d0e941",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "swethhaaaa@getnadaa.com",
+        "phoneNumber": "1122334456"
+      },
+      "emailDomain": "getnadaa.com",
+      "id": "68503c18186f68f3c3d0e941",
+      "creationDate": "2025-06-16T15:45:28.5629476Z",
+      "ownedById": "68503c18186f68f3c3d0e940",
+      "organizationId": "68503c18186f68f3c3d0e941",
+      "onDeskOrganizationId": 486,
+      "modifiedDate": "2025-08-14T16:53:38.2924490Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68517283fe1526a4d35af4af",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "mandeeppe@robot-mail.com",
+        "phoneNumber": "9966962221"
+      },
+      "emailDomain": "robot-mail.com",
+      "id": "68517283fe1526a4d35af4af",
+      "creationDate": "2025-06-17T13:49:55.6007386Z",
+      "ownedById": "68517283fe1526a4d35af4ae",
+      "organizationId": "68517283fe1526a4d35af4af",
+      "onDeskOrganizationId": 487,
+      "modifiedDate": "2025-08-14T16:53:40.1976146Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6851ab58fe1526a4d35b1554",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "varshith@usering.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "usering.com",
+      "id": "6851ab58fe1526a4d35b1554",
+      "creationDate": "2025-06-17T17:52:24.0397734Z",
+      "ownedById": "6851ab58fe1526a4d35b1553",
+      "organizationId": "6851ab58fe1526a4d35b1554",
+      "onDeskOrganizationId": 488,
+      "modifiedDate": "2025-08-14T16:53:41.7348763Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68519fe9fe1526a4d35b08e7",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "testing@couier.com",
+        "phoneNumber": "9704091269"
+      },
+      "emailDomain": "couier.com",
+      "id": "68519fe9fe1526a4d35b08e7",
+      "creationDate": "2025-06-17T17:03:37.2937106Z",
+      "ownedById": "68519fe9fe1526a4d35b08e6",
+      "organizationId": "68519fe9fe1526a4d35b08e7",
+      "onDeskOrganizationId": 489,
+      "modifiedDate": "2025-08-14T16:53:43.4809539Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68504fd4ae3c0fed015cc16c",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "mandeep@news.com",
+        "phoneNumber": "1234567890"
+      },
+      "emailDomain": "news.com",
+      "id": "68504fd4ae3c0fed015cc16c",
+      "creationDate": "2025-06-16T17:09:40.3980906Z",
+      "ownedById": "68504fd4ae3c0fed015cc16b",
+      "organizationId": "68504fd4ae3c0fed015cc16c",
+      "onDeskOrganizationId": 490,
+      "modifiedDate": "2025-08-14T16:53:48.3117118Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68270b336b704420726cca3a",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "Hilsa@replyloop.com"
+      },
+      "emailDomain": "replyloop.com",
+      "id": "68270b336b704420726cca3a",
+      "creationDate": "2025-05-16T09:53:55.7878989Z",
+      "ownedById": "68270b336b704420726cca39",
+      "organizationId": "68270b336b704420726cca3a",
+      "onDeskOrganizationId": 478,
+      "modifiedDate": "2025-08-14T15:55:36.6353923Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68a3ea90885bba2747010761",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "tomoaki.takemura@directsourcing-lab.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "directsourcing-lab.com"
+      },
+      "onDeskOrganizationId": 497,
+      "emailDomain": "directsourcing-lab.com",
+      "id": "68a3ea90885bba2747010761",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68a3ea90885bba2747010760",
+      "organizationId": "68a3ea90885bba2747010761",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "Our mission is “To bring transformative change to talent acquisition activities of companies through the power of technology.”",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Information | Direct Sourcing Inc. | 株式会社ダイレクトソーシング",
+      "modifiedDate": "2025-08-19T03:09:19.8975201Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "689e8a94f461ed86a7fe9e81",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "jackson@stratton.global",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "stratton.global"
+      },
+      "onDeskOrganizationId": 494,
+      "emailDomain": "stratton.global",
+      "id": "689e8a94f461ed86a7fe9e81",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "689e8a94f461ed86a7fe9e80",
+      "organizationId": "689e8a94f461ed86a7fe9e81",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "Stratton Global offers a wide range of solutions for commercial refrigeration in Melbourne and throughout Australia. Browse online & call us!",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Stratton Global - Commercial Refrigeration Melbourne",
+      "modifiedDate": "2025-08-15T01:19:07.3453514Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "685223a1c4166469e9eb9865",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "22701A0514@aitsrajampet.ac.in",
+        "phoneNumber": "7729919523",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "aitsrajampet.ac.in",
+      "id": "685223a1c4166469e9eb9865",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "685223a1c4166469e9eb9864",
+      "organizationId": "685223a1c4166469e9eb9865",
+      "bannerUrl": "",
+      "name": "AITS",
+      "founded": "2016",
+      "description": "GOOD COMPANY",
+      "location": {
+        "country": "INDIA",
+        "state": "AP"
+      },
+      "industry": "AITS",
+      "companySize": "500",
+      "logoUrl": "",
+      "onDeskOrganizationId": 493,
+      "modifiedDate": "2025-08-14T16:56:33.8327306Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6851ca01395714294c2984b0",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "santhosh@netflixx.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "netflixx.com",
+      "id": "6851ca01395714294c2984b0",
+      "creationDate": "2025-06-17T20:03:13.4657721Z",
+      "ownedById": "6851ca01395714294c2984af",
+      "organizationId": "6851ca01395714294c2984b0",
+      "onDeskOrganizationId": 498,
+      "modifiedDate": "2025-08-19T06:21:14.0260897Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6853f7c3395714294c2a1d45",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "testinnngggg@tezstt.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "tezstt.com",
+      "id": "6853f7c3395714294c2a1d45",
+      "creationDate": "2025-06-19T11:42:59.3890307Z",
+      "ownedById": "6853f7c3395714294c2a1d44",
+      "organizationId": "6853f7c3395714294c2a1d45",
+      "onDeskOrganizationId": 501,
+      "modifiedDate": "2025-08-19T06:21:23.2814752Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68547806c651de4f33c053d8",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "mandeepsingh@turtin.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "turtin.com",
+      "id": "68547806c651de4f33c053d8",
+      "creationDate": "2025-06-19T20:50:14.2138482Z",
+      "ownedById": "68547806c651de4f33c053d7",
+      "organizationId": "68547806c651de4f33c053d8",
+      "onDeskOrganizationId": 502,
+      "modifiedDate": "2025-08-19T06:21:24.6686441Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6851c0fefe1526a4d35b4933",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "aish@testing.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "testing.com",
+      "id": "6851c0fefe1526a4d35b4933",
+      "creationDate": "2025-06-17T19:24:46.6577188Z",
+      "ownedById": "6851c0fefe1526a4d35b4932",
+      "organizationId": "6851c0fefe1526a4d35b4933",
+      "onDeskOrganizationId": 499,
+      "modifiedDate": "2025-08-19T06:21:19.0319909Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6852cf62395714294c29d22c",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "marshal@amazonn.com",
+        "phoneNumber": "1234567890"
+      },
+      "emailDomain": "amazonn.com",
+      "id": "6852cf62395714294c29d22c",
+      "creationDate": "2025-06-18T14:38:26.5820192Z",
+      "ownedById": "6852cf62395714294c29d22b",
+      "organizationId": "6852cf62395714294c29d22c",
+      "onDeskOrganizationId": 500,
+      "modifiedDate": "2025-08-19T06:21:20.3781593Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68a11acdf461ed86a7feed15",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "jackie@peopleprinciples.co",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 496,
+      "emailDomain": "peopleprinciples.co",
+      "id": "68a11acdf461ed86a7feed15",
+      "creationDate": "2025-08-16T23:57:01.6613296Z",
+      "ownedById": "68a11acdf461ed86a7feed14",
+      "organizationId": "68a11acdf461ed86a7feed15"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "681a6865aa7907b70f948324",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "hradmin@rigaps.com",
+        "phoneNumber": "+919515871972",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "rigaps.com",
+      "id": "681a6865aa7907b70f948324",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "681a6865aa7907b70f948323",
+      "organizationId": "681a6865aa7907b70f948324",
+      "bannerUrl": "",
+      "name": "RIG Enterprise Application Inc",
+      "founded": "2012",
+      "description": "RIG Enterprise Applications Pvt Ltd is part of RIG group of Companies headquartered in Irving TX, USA. We have over a decade of experience into providing Technology Consulting, Onsite & Offshore software development and Product Development. We currently serve our customers based out in US, Europe & South America.\n\n\nWe are looking to expand our current offshore capabilities into various departments to serve our ever growing customer base and increase our revenues to $100 Million by 2025.\n\nMajority of this new team would be working on our Enterprise SaaS product OnBlick. OnBlick serves employers in the United states in the areas of HRMS, Immigration and Department of Labor Compliances.\n\n\nJoin our dynamic team of young, motivated Individuals from both the Millennial and Gen Z generations. Our organizational goals are aligned with our team members’ personal ambitions, giving us the drive to work hard and play even harder. We prioritize celebrating success and recognizing our team’s efforts as part of our positive, highly-valued culture.\n\nWe also provide comprehensive medical insurance plans for all employees and their dependent.\n\n\nWe believe that our company has a clear vision and mission that empowers our employees to contribute and grow together. We offer a variety of engaging activities and opportunities to ensure that our employees feel valued, rewarded, and recognized. If you're ready to take the next step in your career, visit the company's LinkedIn page to learn more about our events, recognitions, celebrations, and employee stories. Be part of a company that genuinely values its people!\n\n\nCompany Website: https://www.rigaps.com/\n\nProduct Site: https://www.onblick.com\n\nAddress: Hitech City, Hyderabad\n\nDomain: SAAS Product Company (HR/Immigration/Compliance Software Product)\n\nCompany Info\nAddress:\nHitech City, Hyderabad, Telangana, India.",
+      "location": {
+        "country": "India",
+        "state": "Telangana"
+      },
+      "industry": "IT",
+      "companySize": "150",
+      "logoUrl": "https://reccostorage.blob.core.windows.net/reccoprod-public/RIGAPS%20white%20logo.png",
+      "onDeskOrganizationId": 289,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-19T07:22:54.3931524Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68a522fe7742466f79c5bf8f",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "rbiggs@coastaccess.com",
+        "phoneNumber": "+1(360) 289-2252",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "https://coastcommunications.com"
+      },
+      "onDeskOrganizationId": 505,
+      "emailDomain": "coastaccess.com",
+      "id": "68a522fe7742466f79c5bf8f",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68a522fe7742466f79c5bf8e",
+      "organizationId": "68a522fe7742466f79c5bf8f",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "2003",
+      "description": "Coast Communications provides a range of telecommunications services including cable TV, high-speed internet, and VoIP phone services. They cater to clients in Ocean Shores and the North Beaches on the Washington Coast, offering a variety of programming options and fast internet speeds. Their VoIP phone service includes free long-distance calling within the USA and Canada, enhancing the overall customer experience. The company aims to simplify entertainment and communication for its customers with a single provider and billing solution.",
+      "industry": "Telecommunication",
+      "companySize": "50-100",
+      "logoUrl": "https://reccostorage.blob.core.windows.net/reccoprod-public/Screenshot%202025-08-19%20at%208.25.52%E2%80%AFPM.png",
+      "name": "Coast Communications",
+      "modifiedDate": "2025-08-20T01:36:24.0163283Z",
+      "location": {
+        "country": "United States",
+        "state": "Washington"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68a526007742466f79c5cd55",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "nakesha@lightingstaffingagency.com",
+        "phoneNumber": "+18775949822",
+        "socialLinks": {
+          "Linkedin": "https://www.lightingstaffingagency.com",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.lightingstaffingagency.com"
+      },
+      "onDeskOrganizationId": 506,
+      "emailDomain": "lightingstaffingagency.com",
+      "id": "68a526007742466f79c5cd55",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68a526007742466f79c5cd54",
+      "organizationId": "68a526007742466f79c5cd55",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "2014",
+      "description": "We are an established Alabama recruitment agency focused on helping candidates secure employment. Our expertise allows us to provide personalized guidance.",
+      "industry": "Staffing/Recruitment ",
+      "companySize": "10",
+      "logoUrl": "",
+      "name": "Lighting Staffing Agency |",
+      "modifiedDate": "2025-08-20T02:51:06.8407201Z",
+      "location": {
+        "country": "United States ",
+        "state": "Alabama "
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68a4c21d43137a7a357f3bad",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "sebastian@nethertalent.xyz",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.nethertalent.xyz"
+      },
+      "onDeskOrganizationId": 504,
+      "emailDomain": "nethertalent.xyz",
+      "id": "68a4c21d43137a7a357f3bad",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68a4c21d43137a7a357f3bac",
+      "organizationId": "68a4c21d43137a7a357f3bad",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "Nether Talent is the leading global crypto & blockchain recruitment agency, connecting organizations with Tier-1 talents to ... contact@nethertalent.xyz.",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Nether Talent - Crypto Recruiters",
+      "modifiedDate": "2025-08-19T18:32:26.5700550Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68a5bacf7742466f79c63df5",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "contact@muslim-mentors.fr",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.muslim-mentors.fr"
+      },
+      "onDeskOrganizationId": 508,
+      "emailDomain": "muslim-mentors.fr",
+      "id": "68a5bacf7742466f79c63df5",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68a5bacf7742466f79c63df4",
+      "organizationId": "68a5bacf7742466f79c63df5",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "Programme de mentorat gratuit par des musulmans pour des musulmans. Notre mission à travers Muslim Mentors est d'accompagner les étudiants et jeunes ",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Muslim Mentors",
+      "modifiedDate": "2025-08-20T13:22:26.2604594Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68a649d07742466f79c6a232",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "benchsales@itechedgecorp.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "itechedgecorp.com"
+      },
+      "onDeskOrganizationId": 509,
+      "emailDomain": "itechedgecorp.com",
+      "id": "68a649d07742466f79c6a232",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68a649d07742466f79c6a231",
+      "organizationId": "68a649d07742466f79c6a232",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "hr@iTechEdgeCorp.com. 2021 © itechedge. All Rights Reserved. # · Home · Who we are · What We Do · Staffing Solutions · Software solutions · Hardware Solutions.",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "iTechEdge",
+      "modifiedDate": "2025-08-20T22:28:16.2994490Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6835a21d3724d09fe81d25fd",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "Aneesha@Aneesha.com"
+      },
+      "emailDomain": "Aneesha.com",
+      "id": "6835a21d3724d09fe81d25fd",
+      "creationDate": "2025-05-27T11:29:33.6372200Z",
+      "ownedById": "6835a21d3724d09fe81d25fc",
+      "organizationId": "6835a21d3724d09fe81d25fd",
+      "onDeskOrganizationId": 492,
+      "modifiedDate": "2025-08-14T16:56:31.5175669Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68a817b2944bfce26be96d19",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "nitansh@masaischool.com",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 512,
+      "emailDomain": "masaischool.com",
+      "id": "68a817b2944bfce26be96d19",
+      "creationDate": "2025-08-22T07:09:38.7365925Z",
+      "ownedById": "68a817b2944bfce26be96d18",
+      "organizationId": "68a817b2944bfce26be96d19"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68a5b2b47742466f79c634c0",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "n.husseini@greenweb.ir",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 507,
+      "emailDomain": "greenweb.ir",
+      "id": "68a5b2b47742466f79c634c0",
+      "creationDate": "2025-08-20T11:34:12.5648220Z",
+      "ownedById": "68a5b2b47742466f79c634bf",
+      "organizationId": "68a5b2b47742466f79c634c0"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68a474e4804fb969eec617f4",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "226W1a4393@ac.in",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 503,
+      "emailDomain": "ac.in",
+      "id": "68a474e4804fb969eec617f4",
+      "creationDate": "2025-08-19T12:58:12.9666070Z",
+      "ownedById": "68a474e4804fb969eec617f3",
+      "organizationId": "68a474e4804fb969eec617f4"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6880c6a1755681c23a1ea8c6",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "yogesh.katyara@aajoyland.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.aajoyalnd.com"
+      },
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "aajoyland.com",
+      "id": "6880c6a1755681c23a1ea8c6",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "6880c6a1755681c23a1ea8c5",
+      "organizationId": "6880c6a1755681c23a1ea8c6",
+      "bannerUrl": "",
+      "name": "AA Joyland",
+      "founded": "",
+      "modifiedDate": "2025-08-22T11:08:00.2249999Z",
+      "description": "AA Joyland is the region's largest recreational entertainment company operating since 1980. Throughout the \nyears, AA Joyland has meticulously analyzed and adapted to the evolving needs of the amusement industry, \nensuring that each era brings new heights of joy. With an innovative approach and a steadfast commitment \nto excellence, the company continues to shape the entertainment and amusement scene in the region.",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "https://reccostorage.blob.core.windows.net/reccoprod-public/Logo.jpg",
+      "onDeskOrganizationId": 520,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "681a6e06aa7907b70f9484f7",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "admin@dev-recco.onblick.us",
+        "phoneNumber": "+919515871972",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "dev-recco.onblick.us",
+      "id": "681a6e06aa7907b70f9484f7",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "681a6e06aa7907b70f9484f6",
+      "organizationId": "681a6e06aa7907b70f9484f7",
+      "bannerUrl": "",
+      "name": "Deploy Inc",
+      "founded": "2021",
+      "description": "Deploy Inc. is a dynamic and fast-growing manufacturing company founded in 2021 and headquartered in Illinois, USA. With a team of 170 skilled professionals, we specialize in delivering high-quality, innovative solutions tailored to meet the evolving needs of the industry. Our mission is to combine cutting-edge technology with industry best practices to enhance productivity, ensure quality, and drive sustainable growth for our clients. We are committed to excellence, customer satisfaction, and continuous improvement in everything we do.",
+      "location": {
+        "country": "USA",
+        "state": "ILLINOIS"
+      },
+      "industry": "Manufacturing",
+      "companySize": "170",
+      "logoUrl": "",
+      "onDeskOrganizationId": 517,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-22T11:07:54.7628662Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6885f84b4e3da8640e0be9da",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "ezzeldin@equivator.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.buildmate.com"
+      },
+      "onDeskOrganizationId": 521,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "equivator.com",
+      "id": "6885f84b4e3da8640e0be9da",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "6885f84b4e3da8640e0be9d9",
+      "organizationId": "6885f84b4e3da8640e0be9da",
+      "bannerUrl": "",
+      "founded": "",
+      "description": "Connecting Contractors and Suppliers for Efficient, Transparent, Cost-effective, and Streamlined Procurement",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "BuildMate",
+      "modifiedDate": "2025-08-22T11:08:01.2369914Z",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "681c5d22c5474162a287896a",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "hradmin@rigusinc.com",
+        "phoneNumber": "+1 972 215 7071",
+        "socialLinks": {
+          "Linkedin": "https://www.linkedin.com/company/resource-informatics-group-inc/",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "rigusinc.com",
+      "id": "681c5d22c5474162a287896a",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "681c5d22c5474162a2878969",
+      "organizationId": "681c5d22c5474162a287896a",
+      "bannerUrl": "",
+      "name": "Resource Informatics Group",
+      "founded": "2012",
+      "description": "IT service expertise and strategic consulting to transform your business\nAt RIG, we provide companies with the most reliable staffing services. Together, we use the latest technology and our team expertise to transform your business efficiently.\n\n",
+      "location": {
+        "country": "USA",
+        "state": "TEXAS"
+      },
+      "industry": "Staffing & Consulting",
+      "companySize": "130",
+      "logoUrl": "",
+      "onDeskOrganizationId": 518,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-22T11:07:55.7571254Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "682611d9f126f40c71a7d7a9",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "hiring@reccopilot.com",
+        "phoneNumber": "+919989500221",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "reccopilot.com",
+      "id": "682611d9f126f40c71a7d7a9",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "682611d9f126f40c71a7d7a8",
+      "organizationId": "682611d9f126f40c71a7d7a9",
+      "bannerUrl": "",
+      "name": "Reccopilot",
+      "founded": "2024",
+      "description": "Reccopilot is an intelligent recruitment Co-pilot specialized in end-to-end recruitment processes with a focus on diversity, equity, and inclusion. It analyzes job requirements, screens and ranks candidates from various sources, schedules interviews, and ensures inclusive job descriptions and equitable compensation recommendations. Reccopilot works hand-in-hand with recruiters to increase productivity by 10x, providing top candidate recommendations and handling communication with applicants.",
+      "location": {
+        "country": "USA",
+        "state": "Texas"
+      },
+      "industry": "Software",
+      "companySize": "120",
+      "logoUrl": "",
+      "onDeskOrganizationId": 519,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-22T11:07:56.7646719Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "685f0f2cd45abbc146114a56",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "katina.bryant@gta.ga.gov",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "gta.ga.gov",
+      "id": "685f0f2cd45abbc146114a56",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "685f0f2cd45abbc146114a55",
+      "organizationId": "685f0f2cd45abbc146114a56",
+      "bannerUrl": "",
+      "name": "Georgia Technology Authority",
+      "founded": "2000",
+      "description": "State Government ",
+      "location": {
+        "country": "United States",
+        "state": "GA"
+      },
+      "industry": "IT",
+      "companySize": "233",
+      "logoUrl": "",
+      "onDeskOrganizationId": 515,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-22T11:07:51.3442967Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6863575ad45abbc14611f053",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "raviteja21cs001@jit.ac.in",
+        "phoneNumber": "+919550069068",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "jit.ac.in",
+      "id": "6863575ad45abbc14611f053",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "6863575ad45abbc14611f052",
+      "organizationId": "6863575ad45abbc14611f053",
+      "bannerUrl": "",
+      "name": "ADAKA RAVI TEJA ",
+      "founded": "2010",
+      "description": "No",
+      "location": {
+        "country": "India",
+        "state": "Andhra Pradesh"
+      },
+      "industry": "No",
+      "companySize": "0",
+      "logoUrl": "",
+      "onDeskOrganizationId": 516,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-22T11:07:52.3645948Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68595527d44b635a7b0b3854",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "AllanL@resourgenix.com",
+        "phoneNumber": "+27656119339",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "resourgenix.com",
+      "id": "68595527d44b635a7b0b3854",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68595527d44b635a7b0b3853",
+      "organizationId": "68595527d44b635a7b0b3854",
+      "bannerUrl": "",
+      "name": "Resourgenix",
+      "founded": "2000",
+      "description": ".",
+      "location": {
+        "country": "South Africa",
+        "state": "Gauteng"
+      },
+      "industry": "Recruitment",
+      "companySize": "100",
+      "logoUrl": "",
+      "onDeskOrganizationId": 514,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-22T11:07:50.2516453Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "686cd56f4c4b541075e94b07",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "rene.terblanche@kadasearch.co.uk",
+        "phoneNumber": "+447926265063",
+        "socialLinks": {
+          "Linkedin": "https://www.linkedin.com/company/kadasearchcyber/?viewAsMember=true",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "kadasearch.co.uk",
+      "id": "686cd56f4c4b541075e94b07",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "686cd56f4c4b541075e94b06",
+      "organizationId": "686cd56f4c4b541075e94b07",
+      "bannerUrl": "",
+      "name": "Kada Search",
+      "founded": "2024",
+      "description": "Kada Search specializes in addressing the unique cybersecurity talent needs of organizations UK, EMEA. We specialise in team-building, enabling organizations to scale effectively. By leveraging a personalized human centric approach and deep industry knowledge, ensures strong matches for clients seeking robust security solutions. \n\nKnown for professionalism and trustworthiness, the organization collaborates with global enterprises to build high-performing security teams. Core competencies include onboarding, interviewing, and problem-solving, ensuring tailored recruitment solutions at all organizational maturity levels. \n\nPassionate about securing scalable growth, the mission is to empower companies with exceptional talent.",
+      "location": {
+        "country": "united kingdom",
+        "state": "London"
+      },
+      "industry": "cyber recruitment",
+      "companySize": "1",
+      "logoUrl": "",
+      "onDeskOrganizationId": 529,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-22T11:12:56.2016987Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "686c012cf55bb34c1a1c8fa5",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "eloisesirois@damotech.com",
+        "phoneNumber": "+18194524110",
+        "socialLinks": {
+          "Linkedin": "https://www.linkedin.com/company/damotech",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "damotech.com",
+      "id": "686c012cf55bb34c1a1c8fa5",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "686c012cf55bb34c1a1c8fa4",
+      "organizationId": "686c012cf55bb34c1a1c8fa5",
+      "bannerUrl": "",
+      "name": "Damotech",
+      "founded": "1989",
+      "description": "We are the first and largest warehouse rack safety solutions company and safety equipment supplier in the United States and Canada. With its lines of rack protection products and rack repair kits, Damotech strives to put a stop to the endless cycle of upright replacement by focusing on warehouse safety and the permanent elimination of recurring rack damage. Through our engineering services, we help create a safer working environment for you and your employees, bringing you true peace of mind while saving you money in the process.",
+      "location": {
+        "country": "Canada",
+        "state": "Quebec"
+      },
+      "industry": "Manufacturing",
+      "companySize": "300",
+      "logoUrl": "",
+      "onDeskOrganizationId": 528,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-22T11:12:54.4044566Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6864026cd45abbc14612188c",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "admin@stateprptrealty.online",
+        "phoneNumber": "+18632592726",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "stateprptrealty.online",
+      "id": "6864026cd45abbc14612188c",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "6864026cd45abbc14612188b",
+      "organizationId": "6864026cd45abbc14612188c",
+      "bannerUrl": "",
+      "name": "State Property Realty ",
+      "founded": "2017",
+      "description": "State Property Realty is a nationwide rental management company committed to connecting qualified tenants with affordable and well-managed housing. With a focus on transparency and responsiveness, we serve renters across the U.S. by offering listings that are accessible, honest, and efficiently managed.\n",
+      "location": {
+        "country": "United States",
+        "state": "FL"
+      },
+      "industry": "Real Estate ",
+      "companySize": "35",
+      "logoUrl": "https://reccostorage.blob.core.windows.net/reccoprod-public/IMG_7309.jpeg",
+      "onDeskOrganizationId": 526,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-22T11:12:50.7254851Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "686e8130532224b0a56bf8cb",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "JJ@astraservicepartners.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "astraservicepartners.com",
+      "id": "686e8130532224b0a56bf8cb",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "686e8130532224b0a56bf8ca",
+      "organizationId": "686e8130532224b0a56bf8cb",
+      "bannerUrl": "",
+      "name": "BME",
+      "founded": "1979",
+      "description": "We are a Commercial HVAC Company that also offers Commercial plumbing and electrical work",
+      "location": {
+        "country": "USA",
+        "state": "OH"
+      },
+      "industry": "Commercial HVAC",
+      "companySize": "80",
+      "logoUrl": "",
+      "onDeskOrganizationId": 530,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-22T11:12:57.1962719Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68652acd367e647f2eeed20d",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "randi.fields@automattic.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "automattic.com",
+      "id": "68652acd367e647f2eeed20d",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68652acd367e647f2eeed20c",
+      "organizationId": "68652acd367e647f2eeed20d",
+      "bannerUrl": "",
+      "name": "Woo Creative",
+      "founded": "2010",
+      "description": "Test",
+      "location": {
+        "country": "United States",
+        "state": "North Carolina"
+      },
+      "industry": "Marketing",
+      "companySize": "10",
+      "logoUrl": "",
+      "onDeskOrganizationId": 527,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-22T11:12:52.9710512Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6877ee4a0f1a2a664f35b7f2",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "dsantos@elevatebbs.com",
+        "phoneNumber": "+14154578239"
+      },
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "elevatebbs.com",
+      "id": "6877ee4a0f1a2a664f35b7f2",
+      "creationDate": "2025-07-16T18:24:10.9611766Z",
+      "ownedById": "6877ee4a0f1a2a664f35b7f1",
+      "organizationId": "6877ee4a0f1a2a664f35b7f2",
+      "onDeskOrganizationId": 522,
+      "modifiedDate": "2025-08-22T11:12:45.9790274Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "687f3aea755681c23a1d824f",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "anahlui@miabetepe.com",
+        "phoneNumber": "+14154578239"
+      },
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "miabetepe.com",
+      "id": "687f3aea755681c23a1d824f",
+      "creationDate": "2025-07-22T07:16:58.9940426Z",
+      "ownedById": "687f3aea755681c23a1d824e",
+      "organizationId": "687f3aea755681c23a1d824f",
+      "onDeskOrganizationId": 523,
+      "modifiedDate": "2025-08-22T11:12:46.9741781Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6877bfd4c73bd19921419079",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "mikehu@incalls.com",
+        "phoneNumber": "+14154578239"
+      },
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "incalls.com",
+      "id": "6877bfd4c73bd19921419079",
+      "creationDate": "2025-07-16T15:05:56.2163040Z",
+      "ownedById": "6877bfd4c73bd19921419078",
+      "organizationId": "6877bfd4c73bd19921419079",
+      "onDeskOrganizationId": 524,
+      "modifiedDate": "2025-08-22T11:12:47.9971588Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "687731b3c73bd199214182de",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "manch@munch.com",
+        "phoneNumber": "+14154578239"
+      },
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "munch.com",
+      "id": "687731b3c73bd199214182de",
+      "creationDate": "2025-07-16T04:59:31.7614403Z",
+      "ownedById": "687731b3c73bd199214182dd",
+      "organizationId": "687731b3c73bd199214182de",
+      "onDeskOrganizationId": 525,
+      "modifiedDate": "2025-08-22T11:12:49.0013652Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68700d94532224b0a56c3011",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "kdelcid@westhealth.org",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "https://www.linkedin.com/company/west-health/",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "westhealth.org",
+      "id": "68700d94532224b0a56c3011",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68700d94532224b0a56c3010",
+      "organizationId": "68700d94532224b0a56c3011",
+      "bannerUrl": "",
+      "name": "West Health",
+      "founded": "2009",
+      "description": "Funded by philanthropists Gary and Mary West, West Health is a nonprofit and nonpartisan organization that includes the Gary and Mary West Health Institute and Gary and Mary West Foundation in San Diego, and the Gary and Mary West Health Policy Center in Washington, D.C. These organizations work together toward a shared mission: lowering the cost of healthcare to enable successful aging with access to high-quality, affordable health and support services that preserve and protect their dignity, quality of life and independence. For more information, westhealth.org and follow @westhealth\n\nWest Health’s focus is lowering healthcare costs, improving health outcomes, and enabling the creation of a system that is more transparent, competitive, affordable, person-centered, quality-driven, and sustainable. Specific focus areas include lowering national and consumer healthcare spending, promoting value-based care models, advancing integrated brain health, catalyzing patient-centered innovations, increasing price transparency, and limiting consumer exposure to high out-of-pocket costs.\n",
+      "location": {
+        "country": "United States ",
+        "state": "CA "
+      },
+      "industry": "Non Profit / Healthcare",
+      "companySize": "50",
+      "logoUrl": "https://reccostorage.blob.core.windows.net/reccoprod-public/1_West%20Health%20Logo.png",
+      "onDeskOrganizationId": 531,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-22T11:12:58.1803176Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68517231fe1526a4d35aeff3",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "zoya@geeksvtechnologies.com",
+        "phoneNumber": "(909) 276-7251‬",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "geeksvtechnologies.com",
+      "id": "68517231fe1526a4d35aeff3",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68517231fe1526a4d35aeff2",
+      "organizationId": "68517231fe1526a4d35aeff3",
+      "bannerUrl": "",
+      "name": "Geeks V Technologies",
+      "founded": "2012",
+      "description": "Geeks V Tech Solutions is Pioneer in building Product Startups from grounds up. Its experience in Enterprise Applications support and Center of Excellence in various Technology suites make it stand out. Businesses of every size—from new startups to public companies—use our services to build, manage , support their businesses solutions.",
+      "location": {
+        "country": "United States",
+        "state": "California"
+      },
+      "industry": "IT Services and IT Consulting",
+      "companySize": "50-200",
+      "logoUrl": "",
+      "onDeskOrganizationId": 532,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-22T11:13:05.2979076Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68595235d44b635a7b0b2be8",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "techadmin@gccxindia.com",
+        "phoneNumber": "",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "gccxindia.com",
+      "id": "68595235d44b635a7b0b2be8",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68595235d44b635a7b0b2be7",
+      "organizationId": "68595235d44b635a7b0b2be8",
+      "bannerUrl": "",
+      "name": "GCCX India",
+      "founded": "2025",
+      "description": "GCCX Global is a platform that helps global startups and SMBs set up and scale operations in India through integrated insights, talent, and operations services. It offers tech-enabled, operator-led support for market entry, hiring, compliance, and execution, enabling companies to launch fully functional GCCs in weeks, not months.",
+      "location": {
+        "country": "India",
+        "state": "Haryana"
+      },
+      "industry": "Talent",
+      "companySize": "20",
+      "logoUrl": "",
+      "onDeskOrganizationId": 533,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-22T11:13:08.4919336Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6865669b367e647f2eeef082",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "anoop@gnxtsystems.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "gnxtsystems.com",
+      "id": "6865669b367e647f2eeef082",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "6865669b367e647f2eeef081",
+      "organizationId": "6865669b367e647f2eeef082",
+      "bannerUrl": "",
+      "name": "gnxt",
+      "founded": "2013",
+      "description": "IT software development and contract staffing company",
+      "location": {
+        "country": "india",
+        "state": "uttar pradesh"
+      },
+      "industry": "resourcing",
+      "companySize": "50",
+      "logoUrl": "https://reccostorage.blob.core.windows.net/reccoprod-public/Capture%20ERP12.PNG",
+      "onDeskOrganizationId": 535,
+      "modifiedDate": "2025-08-22T11:19:19.1842237Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "686ce59b4c4b541075e94f1d",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "21p61a6245@vbithyd.ac.in",
+        "phoneNumber": "9849138056",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "vbithyd.ac.in",
+      "id": "686ce59b4c4b541075e94f1d",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "686ce59b4c4b541075e94f1c",
+      "organizationId": "686ce59b4c4b541075e94f1d",
+      "bannerUrl": "",
+      "name": "Vignana Bharathi Institute Of Technology ",
+      "founded": "2004",
+      "description": "I m a fresher recently completed graduation in Vignana Bharathi Institute Of Technology ",
+      "location": {
+        "country": "India",
+        "state": "Telangana"
+      },
+      "industry": "Fresher",
+      "companySize": "College ",
+      "logoUrl": "",
+      "onDeskOrganizationId": 537,
+      "modifiedDate": "2025-08-22T11:19:26.4580461Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68772e180f1a2a664f35ac2b",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "form@formtest.com",
+        "phoneNumber": "+14154578239"
+      },
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "formtest.com",
+      "id": "68772e180f1a2a664f35ac2b",
+      "creationDate": "2025-07-16T04:44:08.3643126Z",
+      "ownedById": "68772e180f1a2a664f35ac2a",
+      "organizationId": "68772e180f1a2a664f35ac2b",
+      "onDeskOrganizationId": 538,
+      "modifiedDate": "2025-08-22T11:19:27.4421603Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "687106b00f1a2a664f34d7c8",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "Shravan@talent.com",
+        "phoneNumber": "+14154578239"
+      },
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "talent.com",
+      "id": "687106b00f1a2a664f34d7c8",
+      "creationDate": "2025-07-11T12:42:24.1020232Z",
+      "ownedById": "687106b00f1a2a664f34d7c7",
+      "organizationId": "687106b00f1a2a664f34d7c8",
+      "onDeskOrganizationId": 539,
+      "modifiedDate": "2025-08-22T11:19:28.4339059Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6862d9efd45abbc14611dfc2",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "ankush@vpc-staffing.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "vpc-staffing.com",
+      "id": "6862d9efd45abbc14611dfc2",
+      "creationDate": "2025-06-30T18:39:43.9226879Z",
+      "ownedById": "6862d9efd45abbc14611dfc1",
+      "organizationId": "6862d9efd45abbc14611dfc2",
+      "onDeskOrganizationId": 534,
+      "modifiedDate": "2025-08-22T11:19:15.9074166Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68663174367e647f2eef2bf4",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "bramadevunimanish@gamil.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "gamil.com",
+      "id": "68663174367e647f2eef2bf4",
+      "creationDate": "2025-07-03T07:29:56.3783682Z",
+      "ownedById": "68663174367e647f2eef2bf3",
+      "organizationId": "68663174367e647f2eef2bf4",
+      "onDeskOrganizationId": 536,
+      "modifiedDate": "2025-08-22T11:19:23.3156056Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6841fe1568645605aa5641e3",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "aditya@unicomtec.com",
+        "phoneNumber": "+13095505038",
+        "socialLinks": {
+          "Linkedin": "https://www.linkedin.com/company/unicomtec/posts/?feedView=all",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "unicomtec.com",
+      "id": "6841fe1568645605aa5641e3",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "6841fe1568645605aa5641e2",
+      "organizationId": "6841fe1568645605aa5641e3",
+      "bannerUrl": "",
+      "name": "Unicom Technologies Inc",
+      "founded": "2005",
+      "description": "UNICOM Technologies Inc, an US based software Consulting organization, and has been in operation for 19+ years. We have engagements with several good clients thru various MSP partnerships. An accomplished leader with proven experience in staff augmentation, we at UNICOM brought together the brightest of thought leaders, software engineers who believe in the disruptive power and value of strategic partnerships that improve strategic sourcing. Unicom has built a reputation with IT's clients and executives for delivering resources both qualified and suitable for their specific needs. Our recruiting methodology and proprietary systems enable us to match skills, experience and aptitudes while ensuring a cultural fit. Our Hiring process Planning: Once identified exactly what client need (both in terms of hard skills and soft skills), plan the process and steps that will be taken and the communication channels that will be used. Searching, Identifying viable candidates, Finding qualified candidates ",
+      "location": {
+        "country": "United States",
+        "state": "IL"
+      },
+      "industry": "IT Staffing",
+      "companySize": "30",
+      "logoUrl": "",
+      "onDeskOrganizationId": 244,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-22T13:04:02.5621472Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "684ae1ff30325a552ddd5bbf",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "tharun@techlogyx.com",
+        "phoneNumber": "+19195041003",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "techlogyx.com",
+      "id": "684ae1ff30325a552ddd5bbf",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "684ae1ff30325a552ddd5bbe",
+      "organizationId": "684ae1ff30325a552ddd5bbf",
+      "bannerUrl": "",
+      "name": "Techlogyx Inc",
+      "founded": "2022",
+      "description": "Techlogyx is an innovative platform that serves the needs of tech industries on a global scale. We are partnered with industry-certified experts to bring feasible solutions to your business. We provide services to startups, large organizations, and enterprises. Whatever technology or industry you are in, we help to achieve business growth.\n\nWith a vast customer base, we build trust, transparency and reliability in our digital journey.",
+      "location": {
+        "country": "Morrisville",
+        "state": "United States"
+      },
+      "industry": "IT Staffing",
+      "companySize": "50",
+      "logoUrl": "",
+      "onDeskOrganizationId": 223,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-22T13:06:39.1406426Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6858ec65d44b635a7b0b0bf5",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "kalpana@scrut.io",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "scrut.io",
+      "id": "6858ec65d44b635a7b0b0bf5",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "6858ec65d44b635a7b0b0bf4",
+      "organizationId": "6858ec65d44b635a7b0b0bf5",
+      "bannerUrl": "",
+      "name": "Scrut Automation",
+      "founded": "2021",
+      "description": "Its a GRC B2B Saas company",
+      "location": {
+        "country": "India",
+        "state": "Karnataka"
+      },
+      "industry": "Saas",
+      "companySize": "200",
+      "logoUrl": "",
+      "onDeskOrganizationId": 543,
+      "modifiedDate": "2025-08-22T11:24:41.5909979Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68598ad0d44b635a7b0b463d",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "abhishek@credhire.co",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "credhire.co",
+      "id": "68598ad0d44b635a7b0b463d",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68598ad0d44b635a7b0b463c",
+      "organizationId": "68598ad0d44b635a7b0b463d",
+      "bannerUrl": "",
+      "name": "Credhire",
+      "founded": "2021",
+      "description": "Recruitment business",
+      "location": {
+        "country": "India",
+        "state": "Goa"
+      },
+      "industry": "Recruiting",
+      "companySize": "20",
+      "logoUrl": "",
+      "onDeskOrganizationId": 544,
+      "modifiedDate": "2025-08-22T11:24:42.5920518Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6880fd61755681c23a1f00ff",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "sandy@metaverse.com",
+        "phoneNumber": "+14154578239"
+      },
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "metaverse.com",
+      "id": "6880fd61755681c23a1f00ff",
+      "creationDate": "2025-07-23T15:18:57.6097385Z",
+      "ownedById": "6880fd61755681c23a1f00fe",
+      "organizationId": "6880fd61755681c23a1f00ff",
+      "onDeskOrganizationId": 542,
+      "modifiedDate": "2025-08-22T11:24:39.6638228Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "685aa546d44b635a7b0b5d0c",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "Tlarson@kahlerhospitalitygroup.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "kahlerhospitalitygroup.com",
+      "id": "685aa546d44b635a7b0b5d0c",
+      "creationDate": "2025-06-24T13:16:54.6836012Z",
+      "ownedById": "685aa546d44b635a7b0b5d0b",
+      "organizationId": "685aa546d44b635a7b0b5d0c",
+      "onDeskOrganizationId": 545,
+      "modifiedDate": "2025-08-22T11:24:44.7624035Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "686d91fd532224b0a56bd24b",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "mitchell@freshtechit.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "freshtechit.com",
+      "id": "686d91fd532224b0a56bd24b",
+      "creationDate": "2025-07-08T21:47:41.1961786Z",
+      "ownedById": "686d91fd532224b0a56bd24a",
+      "organizationId": "686d91fd532224b0a56bd24b",
+      "onDeskOrganizationId": 540,
+      "modifiedDate": "2025-08-22T11:19:29.5905833Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68259a6b6b704420726ca381",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "Gaurav@Gurav.com",
+        "phoneNumber": "+917729919523"
+      },
+      "emailDomain": "Gurav.com",
+      "id": "68259a6b6b704420726ca381",
+      "creationDate": "2025-05-15T07:40:27.2190314Z",
+      "ownedById": "68259a6b6b704420726ca380",
+      "organizationId": "68259a6b6b704420726ca381",
+      "onDeskOrganizationId": 480,
+      "modifiedDate": "2025-08-22T13:15:28.8828389Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6852f6c8395714294c29f3a4",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "maroon@DLF.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "DLF.com",
+      "id": "6852f6c8395714294c29f3a4",
+      "creationDate": "2025-06-18T17:26:32.4984850Z",
+      "ownedById": "6852f6c8395714294c29f3a3",
+      "organizationId": "6852f6c8395714294c29f3a4",
+      "onDeskOrganizationId": 541,
+      "modifiedDate": "2025-08-22T11:24:36.2907950Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6894e85fd3268583ffe17aaf",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "bpatrick@appraisalsphoenix.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.appraisalsphoenix.com"
+      },
+      "onDeskOrganizationId": 559,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "appraisalsphoenix.com",
+      "id": "6894e85fd3268583ffe17aaf",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "6894e85fd3268583ffe17aae",
+      "organizationId": "6894e85fd3268583ffe17aaf",
+      "bannerUrl": "",
+      "founded": "",
+      "description": "We conducts taxable estate appraisals in Phoenix and throughout the state of Arizona. We specialize in Appraisals of all personal property.",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "appraisals phoenix & estates llc",
+      "modifiedDate": "2025-08-26T05:22:46.3559183Z",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68a93e03944bfce26be982db",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "drvineetapillay@clientacceleratoracademy.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "clientacceleratoracademy.com"
+      },
+      "onDeskOrganizationId": 548,
+      "emailDomain": "clientacceleratoracademy.com",
+      "id": "68a93e03944bfce26be982db",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68a93e03944bfce26be982da",
+      "organizationId": "68a93e03944bfce26be982db",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "At Client Accelerator Academy, we empower ambitious individuals from the medical profession to start, scale, and grow their businesses online.",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Client Accelerator Academy",
+      "modifiedDate": "2025-08-23T04:08:22.7896563Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6867d974367e647f2ef002c6",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "mohan.nandyala@kinichitlabs.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "kinichitlabs.com",
+      "id": "6867d974367e647f2ef002c6",
+      "creationDate": "2025-07-04T13:39:00.6018235Z",
+      "ownedById": "6867d974367e647f2ef002c5",
+      "organizationId": "6867d974367e647f2ef002c6",
+      "onDeskOrganizationId": 555,
+      "modifiedDate": "2025-08-26T05:21:43.4484312Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68591812d44b635a7b0b1af3",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "rebecca.julianaa@corestack.io",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "corestack.io",
+      "id": "68591812d44b635a7b0b1af3",
+      "creationDate": "2025-06-23T09:02:10.5002741Z",
+      "ownedById": "68591812d44b635a7b0b1af2",
+      "organizationId": "68591812d44b635a7b0b1af3",
+      "onDeskOrganizationId": 553,
+      "modifiedDate": "2025-08-26T05:15:06.6669817Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "685ea709d45abbc14611473b",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "marc.clemens@codecontrol.io",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "codecontrol.io",
+      "id": "685ea709d45abbc14611473b",
+      "creationDate": "2025-06-27T14:13:29.2985676Z",
+      "ownedById": "685ea709d45abbc14611473a",
+      "organizationId": "685ea709d45abbc14611473b",
+      "onDeskOrganizationId": 554,
+      "modifiedDate": "2025-08-26T05:16:47.4778071Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "686234b9d45abbc14611a619",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "Vanshika.Jain@rsystems.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "rsystems.com",
+      "id": "686234b9d45abbc14611a619",
+      "creationDate": "2025-06-30T06:54:49.4661540Z",
+      "ownedById": "686234b9d45abbc14611a618",
+      "organizationId": "686234b9d45abbc14611a619",
+      "onDeskOrganizationId": 556,
+      "modifiedDate": "2025-08-26T05:22:43.3887827Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6853eaac395714294c2a10e3",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "nidhi.s@shiprocket.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "shiprocket.com",
+      "id": "6853eaac395714294c2a10e3",
+      "creationDate": "2025-06-19T10:47:08.1289344Z",
+      "ownedById": "6853eaac395714294c2a10e2",
+      "organizationId": "6853eaac395714294c2a10e3",
+      "onDeskOrganizationId": 558,
+      "modifiedDate": "2025-08-26T05:22:45.3636991Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6867544a367e647f2eefaac5",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "kshiti.u@kiotel.co",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "kiotel.co",
+      "id": "6867544a367e647f2eefaac5",
+      "creationDate": "2025-07-04T04:10:50.2234674Z",
+      "ownedById": "6867544a367e647f2eefaac4",
+      "organizationId": "6867544a367e647f2eefaac5",
+      "onDeskOrganizationId": 557,
+      "modifiedDate": "2025-08-26T05:22:44.3824933Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "688047395f51a6eea7628569",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "22fh1a3214@drkvsrit.in",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "drkvsrit.ac.in"
+      },
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "drkvsrit.in",
+      "id": "688047395f51a6eea7628569",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "688047395f51a6eea7628568",
+      "organizationId": "688047395f51a6eea7628569",
+      "bannerUrl": "",
+      "name": "KVSRIT – Dr.K.V.Subba Reddy Institute of Technology,– Affiliated to ...",
+      "founded": "",
+      "modifiedDate": "2025-08-26T05:22:51.5703341Z",
+      "description": "Dr.KVSRIT is an intellectual destination that draws inspired scholars , keeping Dr.KVSRIT at the nexus of ideas that challenge and change the world. Contact Us.",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "onDeskOrganizationId": 564,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "687f0ac8755681c23a1d7470",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "liran@devjobs.co.il",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.devjobs.co.il"
+      },
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "devjobs.co.il",
+      "id": "687f0ac8755681c23a1d7470",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "687f0ac8755681c23a1d746f",
+      "organizationId": "687f0ac8755681c23a1d7470",
+      "bannerUrl": "",
+      "name": "DevJobs - Git Your Dream Job Here",
+      "founded": "",
+      "modifiedDate": "2025-08-26T05:25:08.4371086Z",
+      "description": "With the most comprehensive listing of developer jobs, we are committed to connecting coding enthusiasts with opportunities that match their skillset and ...",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "onDeskOrganizationId": 565,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6880a99c5f51a6eea762e406",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "cos@pecb.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "pecb.com"
+      },
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "pecb.com",
+      "id": "6880a99c5f51a6eea762e406",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "6880a99c5f51a6eea762e405",
+      "organizationId": "6880a99c5f51a6eea762e406",
+      "bannerUrl": "",
+      "name": "PECB: Building Digital Trust | Training Courses & Certification",
+      "founded": "",
+      "modifiedDate": "2025-08-26T05:22:47.6202344Z",
+      "description": "PECB offers training courses that speak to your needs and reflect the latest standards, technologies, approaches, most innovative methods, and practical ...",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "onDeskOrganizationId": 560,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "687f4b11755681c23a1da0a3",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "k.harris@evona.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.evona.com"
+      },
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "evona.com",
+      "id": "687f4b11755681c23a1da0a3",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "687f4b11755681c23a1da0a2",
+      "organizationId": "687f4b11755681c23a1da0a3",
+      "bannerUrl": "",
+      "name": "EVONA | International Space Sector Staffing & Recruitment",
+      "founded": "",
+      "modifiedDate": "2025-08-26T05:22:50.5845884Z",
+      "description": "We recruit exclusively for the space sector, from the companies building rockets, rovers, landers or satellites, to those utilising space data.",
+      "location": {
+        "country": "",
+        "state": ""
+      },
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "onDeskOrganizationId": 563,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68541275c651de4f33c04605",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "ipichardo@primerica.com",
+        "phoneNumber": "978-569-7529",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "primerica.com",
+      "id": "68541275c651de4f33c04605",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68541275c651de4f33c04604",
+      "organizationId": "68541275c651de4f33c04605",
+      "bannerUrl": "",
+      "name": "Primerica - Purpose Financial Agency",
+      "founded": "2005",
+      "description": "Our mission is to help families earn more income and become properly protected, debt free and financially independent.\n\nWe aim to:\n\t•\tEducate clients on financial fundamentals like budgeting, debt management, and insurance.\n\t•\tOffer tailored solutions—term life insurance, annuities, and investment products—to ensure families are “properly protected.”\n\t•\tEmpower families to eliminate debt and build wealth toward financial independence.",
+      "location": {
+        "country": "United States",
+        "state": "FL"
+      },
+      "industry": "Financial Services",
+      "companySize": "250",
+      "logoUrl": "",
+      "onDeskOrganizationId": 561,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-26T05:22:48.6025854Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68580d9ed44b635a7b0afc88",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "agupta@cloudandthings.com",
+        "phoneNumber": "",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "cloudandthings.com",
+      "id": "68580d9ed44b635a7b0afc88",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68580d9ed44b635a7b0afc87",
+      "organizationId": "68580d9ed44b635a7b0afc88",
+      "bannerUrl": "",
+      "name": "C&T",
+      "founded": "2005",
+      "description": "Leader in NY SLED",
+      "location": {
+        "country": "USA",
+        "state": "NY"
+      },
+      "industry": "IT",
+      "companySize": "100-200",
+      "logoUrl": "",
+      "onDeskOrganizationId": 562,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-26T05:22:49.5949996Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6842030130325a552ddccc91",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "HR@IVORSOURCE.COM",
+        "phoneNumber": "+917032321878"
+      },
+      "emailDomain": "IVORSOURCE.COM",
+      "id": "6842030130325a552ddccc91",
+      "creationDate": "2025-06-05T20:50:09.8068964Z",
+      "ownedById": "6842030130325a552ddccc90",
+      "organizationId": "6842030130325a552ddccc91",
+      "onDeskOrganizationId": 566,
+      "modifiedDate": "2025-08-26T05:26:12.8621567Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6842042930325a552ddcd35c",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "hr@eiserone.com",
+        "phoneNumber": "+917032321878"
+      },
+      "emailDomain": "eiserone.com",
+      "id": "6842042930325a552ddcd35c",
+      "creationDate": "2025-06-05T20:55:05.9198117Z",
+      "ownedById": "6842042930325a552ddcd35b",
+      "organizationId": "6842042930325a552ddcd35c",
+      "onDeskOrganizationId": 567,
+      "modifiedDate": "2025-08-26T05:26:13.8591582Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "684201ae30325a552ddcb57c",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "hr@acholyte.com",
+        "phoneNumber": "+12818988281"
+      },
+      "emailDomain": "acholyte.com",
+      "id": "684201ae30325a552ddcb57c",
+      "creationDate": "2025-06-05T20:44:30.2008909Z",
+      "ownedById": "684201ae30325a552ddcb57b",
+      "organizationId": "684201ae30325a552ddcb57c",
+      "onDeskOrganizationId": 568,
+      "modifiedDate": "2025-08-26T05:26:14.8679839Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68886c5b384d481c0975c355",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "vahid.haghzare@svarecruitment.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "svarecruitment.com"
+      },
+      "onDeskOrganizationId": 443,
+      "primaryColor": "#BAD6FF",
+      "secondaryColor": "#BAECFF",
+      "emailDomain": "svarecruitment.com",
+      "id": "68886c5b384d481c0975c355",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68886c5b384d481c0975c354",
+      "organizationId": "68886c5b384d481c0975c355",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "Tech & IT Recruitment Agency. With 10+ years of experience, we are a trusted IT recruitment agency and tech headhunter in APAC & the Middle East, offering executive search and staffing.",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "SVA Recruitment",
+      "modifiedDate": "2025-08-26T14:08:21.3275327Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "681a6451c94d05a5bdc28eb8",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "saisanthosh@getnada.com",
+        "phoneNumber": "+919515871972",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "getnada.com",
+      "id": "681a6451c94d05a5bdc28eb8",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "681a6451c94d05a5bdc28eb7",
+      "organizationId": "681a6451c94d05a5bdc28eb8",
+      "bannerUrl": "",
+      "name": "Reccopilot",
+      "founded": "2024",
+      "description": "Your Open-to-Hire\nAI Recruiting Agent\nRevolutionize your recruitment process with our trusted AI Recruiter.\nLet our Agentic AI automate every step from sourcing to hiring.",
+      "location": {
+        "country": "US",
+        "state": "Texas"
+      },
+      "industry": "IT",
+      "companySize": "20",
+      "logoUrl": "",
+      "onDeskOrganizationId": 519,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-26T06:18:00.7045113Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68add547fa3ac16031485c92",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "joseph@staffitenterprises.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "staffitenterprises.com"
+      },
+      "onDeskOrganizationId": 570,
+      "emailDomain": "staffitenterprises.com",
+      "id": "68add547fa3ac16031485c92",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68add547fa3ac16031485c91",
+      "organizationId": "68add547fa3ac16031485c92",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "Aug 29, 2023 ... ron@staffitenterprises.com · 360-464-5909. INFORMATION. Home · Leadership · Where We Work · Typical Hiring Metrics For Our Client Hitachi ...",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Staff IT Enterprises - Home of the Global Recruitment Process ...",
+      "modifiedDate": "2025-08-26T15:45:00.2272277Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68ac6256fa3ac1603148291b",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "Gkarre@student.gitam.edu",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.gitam.edu"
+      },
+      "onDeskOrganizationId": 550,
+      "emailDomain": "student.gitam.edu",
+      "id": "68ac6256fa3ac1603148291b",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68ac6256fa3ac1603148291a",
+      "organizationId": "68ac6256fa3ac1603148291b",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "GITAM Deemed to be University provides multidisciplinary education with a focus on applied learning, translational research, and holistic student ...",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "GITAM Deemed to be University | Multidisciplinary Education ...",
+      "modifiedDate": "2025-08-26T11:37:09.0920725Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "681a6cfcaa7907b70f94843d",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "admin@cs-recco.onblick.us",
+        "phoneNumber": "+919515871972",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        }
+      },
+      "emailDomain": "cs-recco.onblick.us",
+      "id": "681a6cfcaa7907b70f94843d",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "681a6cfcaa7907b70f94843c",
+      "organizationId": "681a6cfcaa7907b70f94843d",
+      "bannerUrl": "",
+      "name": "Onblick",
+      "founded": "2012",
+      "description": "Onblick",
+      "location": {
+        "country": "US",
+        "state": "Dallas"
+      },
+      "industry": "IT",
+      "companySize": "500",
+      "logoUrl": "",
+      "onDeskOrganizationId": 1,
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "modifiedDate": "2025-08-26T06:06:37.9369485Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68b1a3dafa3ac16031488d5f",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "rupali.deshmukh@gdit.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.gdit.com"
+      },
+      "onDeskOrganizationId": 573,
+      "emailDomain": "gdit.com",
+      "id": "68b1a3dafa3ac16031488d5f",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68b1a3dafa3ac16031488d5e",
+      "organizationId": "68b1a3dafa3ac16031488d5f",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "Delivering technology solutions and mission services to every major agency across the U.S. government, defense and intelligence community.",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "GDIT - Art of the possible.",
+      "modifiedDate": "2025-08-29T12:59:57.0514239Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "6852c7e2395714294c29c52f",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "mandeep@onblick.com",
+        "phoneNumber": "+14154578239"
+      },
+      "emailDomain": "onblick.com",
+      "id": "6852c7e2395714294c29c52f",
+      "creationDate": "2025-06-18T14:06:26.0214084Z",
+      "ownedById": "6852c7e2395714294c29c52e",
+      "organizationId": "6852c7e2395714294c29c52f",
+      "onDeskOrganizationId": 490,
+      "modifiedDate": "2025-08-26T06:10:40.3757699Z"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68a83ab4944bfce26be97174",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "ishita.belwal1@innovaccer.com",
+        "phoneNumber": "7729919523"
+      },
+      "onDeskOrganizationId": 513,
+      "emailDomain": "innovaccer.com",
+      "id": "68a83ab4944bfce26be97174",
+      "creationDate": "2025-08-22T09:39:00.6752992Z",
+      "ownedById": "68a83ab4944bfce26be97173",
+      "organizationId": "68a83ab4944bfce26be97174"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68ba0a40061af568d356419c",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "sumair.lalani@aku.edu",
+        "phoneNumber": "+3323387981",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.aku.edu"
+      },
+      "onDeskOrganizationId": 585,
+      "emailDomain": "aku.edu",
+      "id": "68ba0a40061af568d356419c",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68ba0a40061af568d356419b",
+      "organizationId": "68ba0a40061af568d356419c",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "Giving to AKU · Campuses & Sites · AKU's Economic Impacts in Pakistan · WearAKU - Official AKU Apparel. Information for. Students · Alumni · Media. Healthcare.\n\nThe mission of the Aga Khan University (AKU) is to improve the quality of life in the developing world and beyond through world-class teaching, research and health-care delivery. The University educates students about local and global leadership, generates new knowledge to solve problems that affect millions of people, and raises standards and aspirations in the countries in which it works. We empower women and the disadvantaged, build support for pluralism, and collaborate with local partners and world-renowned organizations to achieve shared goals. \n\nFounded in 1983 as Pakistan’s first private university, AKU is a not-for-profit institution and an agency of the Aga Khan Development Network. Starting in 2000, the University expa​​nded​ to Kenya, Tanzania, Uganda, Afghanistan, and the United Kingdom. ​\n\nAKU began life as a health-sciences university. We are among the largest private health-care providers in Pakistan and East Africa. Our hospitals were the first in those regions accredited by the U.S.-based Joint Commission International, and our research and our graduates have influenced health policy and practice nationally and internationally. \n\nMore recently, we have initiated programmes in teacher education, the study of Muslim civilisations, journalism, early childhood development and public policy. In September 2023, we have launched a Faculty of Arts and Sciences the programmes of which aim to educate future leaders in a wide range of fields, and we will establish additional graduate professional schools. ​\n\nOur goal, in the words of our founder and Chancellor, His Highness t​he Aga Khan IV, is to be “on the frontiers of scientific and humanistic knowledge, radiating intelligence and confidence, research and graduates, into flourishing economies and progressive legal and political systems.”​\n\nLearn more about the University and its work to empower the people of th​e developing world and the University's Strategic Plan for the next five years.\n\n3,986\nCurrent\nStudents ​\n\n21,237\n​Degree/Diploma​ Awarded\n\n12,697\n Staff ​​​​​​​​​​​​​​​​​​​​​​​​​\n\n854\nFaculty ​​​​​​​​\nUpdated as of February 2025​​​​​​​\n\n​",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "The Aga Khan University",
+      "modifiedDate": "2025-09-04T22:18:31.7807567Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68b1f715fa3ac16031489553",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "admin@badgerhealth.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "https://www.badgerhealth.com"
+      },
+      "onDeskOrganizationId": 575,
+      "emailDomain": "badgerhealth.com",
+      "id": "68b1f715fa3ac16031489553",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68b1f715fa3ac16031489552",
+      "organizationId": "68b1f715fa3ac16031489553",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "2019",
+      "description": "Badger Health Center (Est. 2000) is made up of a team of healthcare practitioners who are passionate about meeting the individual needs and goals of each patient. We offer chiropractic, acupuncture, massage therapy, and fat loss laser all under one roof. \n\nOur patients love our relaxed, \"no pressure\" atmosphere and affordable prices. At the same time, we offer the latest technology available, including spinal decompression, low level laser therapy (cold laser) and digital x-ray. \n\nWe also partner with Reaching Treetops Yoga to provide fitness classes on-site at our beautiful yoga studio.\n\nGift cards are available for purchase in our office. They may be applied toward any service and are available in any amount.",
+      "industry": "Healthcare",
+      "companySize": "50",
+      "logoUrl": "https://reccostorage.blob.core.windows.net/reccoprod-public/download.jpeg",
+      "name": "Badger Health Center",
+      "modifiedDate": "2025-08-29T19:12:20.3656212Z",
+      "location": {
+        "country": "US",
+        "state": "Wisconsin"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "685042eeae3c0fed015cada9",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "jahnavi@innov8edge.com",
+        "phoneNumber": "7729919523",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": ""
+      },
+      "emailDomain": "innov8edge.com",
+      "id": "685042eeae3c0fed015cada9",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "685042eeae3c0fed015cada8",
+      "organizationId": "685042eeae3c0fed015cada9",
+      "bannerUrl": "https://reccostorage.blob.core.windows.net/reccoprod-public/Screenshot%202025-08-14%20132824.png",
+      "name": "innov8edge",
+      "founded": "2016",
+      "description": "good company",
+      "location": {
+        "country": "india",
+        "state": "AP"
+      },
+      "industry": "innov8edge",
+      "companySize": "500",
+      "logoUrl": "https://reccostorage.blob.core.windows.net/reccoprod-public/Screenshot%202025-08-14%20132551.png",
+      "onDeskOrganizationId": 569,
+      "modifiedDate": "2025-09-02T13:43:42.3281005Z",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#417505"
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68b6b3fd403bf2b31bc75823",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "abhimanyu.arora@zoominfo.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.zoominfo.com"
+      },
+      "onDeskOrganizationId": 578,
+      "emailDomain": "zoominfo.com",
+      "id": "68b6b3fd403bf2b31bc75823",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68b6b3fd403bf2b31bc75822",
+      "organizationId": "68b6b3fd403bf2b31bc75823",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "ZoomInfo is a go-to-market platform that helps B2B companies identify, connect with, and close their ideal customers through access to business contact data, ...",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "ZoomInfo: The Go-To-Market Intelligence Platform",
+      "modifiedDate": "2025-09-02T09:10:14.7954808Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68bb3b72061af568d3565881",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "ajay.m@quadranttechnologies.com",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 586,
+      "emailDomain": "quadranttechnologies.com",
+      "id": "68bb3b72061af568d3565881",
+      "creationDate": "2025-09-05T19:35:14.4110487Z",
+      "ownedById": "68bb3b72061af568d3565880",
+      "organizationId": "68bb3b72061af568d3565881"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68bd39c3061af568d35660ca",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "rachna.rana@pjprestaurants.com",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 587,
+      "emailDomain": "pjprestaurants.com",
+      "id": "68bd39c3061af568d35660ca",
+      "creationDate": "2025-09-07T07:52:35.4922182Z",
+      "ownedById": "68bd39c3061af568d35660c9",
+      "organizationId": "68bd39c3061af568d35660ca"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68b57e20403bf2b31bc75107",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "Test12345@freshworks.com",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 576,
+      "emailDomain": "freshworks.com",
+      "id": "68b57e20403bf2b31bc75107",
+      "creationDate": "2025-09-01T11:06:08.9030207Z",
+      "ownedById": "68b57e20403bf2b31bc75106",
+      "organizationId": "68b57e20403bf2b31bc75107"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68b5fda2403bf2b31bc752fd",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "sangavipradeepa.r@hcltech.com",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 577,
+      "emailDomain": "hcltech.com",
+      "id": "68b5fda2403bf2b31bc752fd",
+      "creationDate": "2025-09-01T20:10:11.3752644Z",
+      "ownedById": "68b5fda2403bf2b31bc752fc",
+      "organizationId": "68b5fda2403bf2b31bc752fd"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68b9a30b680417f5b1299661",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "Shravan@tester.com",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 584,
+      "emailDomain": "tester.com",
+      "id": "68b9a30b680417f5b1299661",
+      "creationDate": "2025-09-04T14:33:10.1711660Z",
+      "ownedById": "68b9a30b680417f5b1299660",
+      "organizationId": "68b9a30b680417f5b1299661"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68c6bd5e680417f5b12a266f",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "humanresources@kynygroup.org",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "kynygroup.org"
+      },
+      "onDeskOrganizationId": 600,
+      "emailDomain": "kynygroup.org",
+      "id": "68c6bd5e680417f5b12a266f",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68c6bd5e680417f5b12a266e",
+      "organizationId": "68c6bd5e680417f5b12a266f",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "KYNY Group is a forward-thinking organization built on innovation, collaboration, and a commitment to excellence. We focus on creating value-driven strategies, fostering meaningful partnerships, and driving sustainable growth. Our team is guided by integrity, adaptability, and a results-oriented approach, ensuring that we not only meet but exceed the expectations of those we work with.",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "KYNY Group",
+      "modifiedDate": "2025-09-14T13:18:51.3397934Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68c6234e680417f5b12a178b",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "vijayasarathi.v@keelis.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "keelis.com"
+      },
+      "onDeskOrganizationId": 598,
+      "emailDomain": "keelis.com",
+      "id": "68c6234e680417f5b12a178b",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68c6234e680417f5b12a178a",
+      "organizationId": "68c6234e680417f5b12a178b",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "What We Do. Whether you need a custom software, system integration, or support services, Keelis is here to provide reliable and cutting-edge solutions that ...",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Keel Info Solution - Software Product Development and IT Services",
+      "modifiedDate": "2025-09-14T02:10:09.6679337Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68c6ab1a061af568d356d8e7",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "vasudha@talentsutra.co",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.talentsutra.co"
+      },
+      "onDeskOrganizationId": 599,
+      "emailDomain": "talentsutra.co",
+      "id": "68c6ab1a061af568d356d8e7",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68c6ab1a061af568d356d8e6",
+      "organizationId": "68c6ab1a061af568d356d8e7",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "We are more than just an HR consultancy; we are partners in transformation. Whether it's finding the perfect hire, developing talent, or fostering well-being.",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Talent Sutra",
+      "modifiedDate": "2025-09-14T12:00:48.9237849Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68c1a856061af568d3569889",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "kushal.r@aviaralabs.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "aviaralabs.com"
+      },
+      "onDeskOrganizationId": 592,
+      "emailDomain": "aviaralabs.com",
+      "id": "68c1a856061af568d3569889",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68c1a856061af568d3569888",
+      "organizationId": "68c1a856061af568d3569889",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "At Aviara Labs, we create personalized AI Co-Pilots and AI Agents for Business Process Automation that enhance your workforce efficiency.",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Aviara Labs - AI Automation Company",
+      "modifiedDate": "2025-09-10T16:35:16.4294490Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68c06b93680417f5b129c849",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "clint@howard-finley.co.uk",
+        "phoneNumber": "",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "www.howard-finley.co.uk"
+      },
+      "onDeskOrganizationId": 591,
+      "emailDomain": "howard-finley.co.uk",
+      "id": "68c06b93680417f5b129c849",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68c06b93680417f5b129c848",
+      "organizationId": "68c06b93680417f5b129c849",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "Howard Finley Ltd is a UK-based specialist recruitment agency that offers tailored staffing solutions across multiple sectors.. View More ...",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Howard Finley: Top & Best Specialist London Recruitment Agencies ...",
+      "modifiedDate": "2025-09-09T18:26:50.2568070Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68c1f400680417f5b129e89b",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "johngrady@a1rndr.onmicrosoft.com",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 593,
+      "emailDomain": "a1rndr.onmicrosoft.com",
+      "id": "68c1f400680417f5b129e89b",
+      "creationDate": "2025-09-10T21:56:17.4224441Z",
+      "ownedById": "68c1f400680417f5b129e89a",
+      "organizationId": "68c1f400680417f5b129e89b"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68c5c229680417f5b12a15e4",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "robert@gigante6promotions.us",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 597,
+      "emailDomain": "gigante6promotions.us",
+      "id": "68c5c229680417f5b12a15e4",
+      "creationDate": "2025-09-13T19:12:42.0455990Z",
+      "ownedById": "68c5c229680417f5b12a15e3",
+      "organizationId": "68c5c229680417f5b12a15e4"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68c3e756680417f5b12a0330",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "123@tmail.edu.rs",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 594,
+      "emailDomain": "tmail.edu.rs",
+      "id": "68c3e756680417f5b12a0330",
+      "creationDate": "2025-09-12T09:26:46.6102367Z",
+      "ownedById": "68c3e756680417f5b12a032f",
+      "organizationId": "68c3e756680417f5b12a0330"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68c921c1680417f5b12a3d81",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "udita.lamba@grofers.com",
+        "phoneNumber": "+14154578239",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "grofers.com"
+      },
+      "onDeskOrganizationId": 603,
+      "emailDomain": "grofers.com",
+      "id": "68c921c1680417f5b12a3d81",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68c921c1680417f5b12a3d80",
+      "organizationId": "68c921c1680417f5b12a3d81",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "Shop online for groceries and get your order delivered at your doorstep in minutes. Enjoy instant delivery with blinkit.",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "Blinkit: Everything delivered in minutes",
+      "modifiedDate": "2025-09-16T08:39:31.5861882Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68c9d366061af568d356faf4",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "gayathrib@hankersystems.com",
+        "phoneNumber": "+",
+        "socialLinks": {
+          "Linkedin": "",
+          "Youtube": "",
+          "Twitter": "",
+          "Facebook": ""
+        },
+        "website": "hankersystems.com"
+      },
+      "onDeskOrganizationId": 606,
+      "emailDomain": "hankersystems.com",
+      "id": "68c9d366061af568d356faf4",
+      "creationDate": "0001-01-01T00:00:00",
+      "ownedById": "68c9d366061af568d356faf3",
+      "organizationId": "68c9d366061af568d356faf4",
+      "preferences": {
+        "visibilitySettings": {
+          "showLogoAndHeader": true,
+          "showExperienceRange": true,
+          "showWorkLocations": true,
+          "showWhoWeAre": true,
+          "showHiringModel": true,
+          "showRolesAndResponsibilities": true,
+          "showSkillsRequired": true,
+          "showTravelRequired": true,
+          "showBanner": true,
+          "showDomainExperience": true,
+          "showSalary": true,
+          "showEducation": true,
+          "showKeyNotes": true,
+          "showEmploymentTypes": true
+        },
+        "primaryColor": "#BAD6FF",
+        "secondaryColor": "#BAECFF"
+      },
+      "bannerUrl": "",
+      "founded": "",
+      "description": "At Hanker, we understand that the core lies in hiring and staffing right with our experts specializing in job integrations and talent management. Talk to Us ...",
+      "industry": "",
+      "companySize": "",
+      "logoUrl": "",
+      "name": "hankersystems.com",
+      "modifiedDate": "2025-09-16T21:18:16.7256598Z",
+      "location": {
+        "country": "",
+        "state": ""
+      }
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68cbc9c4522335eef2b0aa0a",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "finishedtest@finished.com",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 607,
+      "emailDomain": "finished.com",
+      "id": "68cbc9c4522335eef2b0aa0a",
+      "creationDate": "2025-09-18T08:58:45.0965485Z",
+      "ownedById": "68cbc9c4522335eef2b0aa09",
+      "organizationId": "68cbc9c4522335eef2b0aa0a"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68cdb193003347de02a4ccd0",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "bryanda@unlimitedoutreach.io",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 610,
+      "emailDomain": "unlimitedoutreach.io",
+      "id": "68cdb193003347de02a4ccd0",
+      "creationDate": "2025-09-19T19:40:03.4590587Z",
+      "ownedById": "68cdb193003347de02a4cccf",
+      "organizationId": "68cdb193003347de02a4ccd0"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68d0182c522335eef2b0b2fe",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "aresblair.0103@radiant-flow.org",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 611,
+      "emailDomain": "radiant-flow.org",
+      "id": "68d0182c522335eef2b0b2fe",
+      "creationDate": "2025-09-21T15:22:21.6037317Z",
+      "ownedById": "68d0182c522335eef2b0b2fd",
+      "organizationId": "68d0182c522335eef2b0b2fe"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68d0edc0522335eef2b0b3df",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "brandon.j@aislingpd.com",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 612,
+      "emailDomain": "aislingpd.com",
+      "id": "68d0edc0522335eef2b0b3df",
+      "creationDate": "2025-09-22T06:33:37.0803020Z",
+      "ownedById": "68d0edc0522335eef2b0b3de",
+      "organizationId": "68d0edc0522335eef2b0b3df"
+    }
+  },
+  {
+    "_index": "recco-models-organization_live_v2",
+    "_id": "68d0f57e003347de02a4d610",
+    "_score": 1.0,
+    "_source": {
+      "contactDetails": {
+        "email": "santhosh@rigapsProdFreeTrial.com",
+        "phoneNumber": "+14154578239"
+      },
+      "onDeskOrganizationId": 613,
+      "emailDomain": "rigapsProdFreeTrial.com",
+      "id": "68d0f57e003347de02a4d610",
+      "creationDate": "2025-09-22T07:06:38.8369508Z",
+      "ownedById": "68d0f57e003347de02a4d60f",
+      "organizationId": "68d0f57e003347de02a4d610"
+    }
+  }
+]
