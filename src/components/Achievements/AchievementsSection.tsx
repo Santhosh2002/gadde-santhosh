@@ -16,6 +16,17 @@ type Achievement = {
 const achievements: Achievement[] = [
   {
     id: 1,
+    title: "Lie Of Excellence - Q3 (2025)",
+    organization: "Reccopilot Inc.",
+    date: "December 2025",
+    description:
+      "Recognized for exceptional performance and dedication to excellence in Engineering and Product Department at Reccopilot Inc for Q3 2025.",
+    certificateLink:
+      "https://drive.google.com/file/d/1wUbQSQuaigBX8YgLg8J1YqpFEPdvLOHn/view?usp=sharing",
+    image: "./Q3-2025-Best-Performer.png",
+  },
+  {
+    id: 1,
     title: "Best Employee Award 2025 (Q2)",
     organization: "Reccopilot Inc.",
     date: "August 2025",
@@ -27,7 +38,7 @@ const achievements: Achievement[] = [
   },
   {
     id: 2,
-    title: "Best Employee Award 2025 (Q1)",
+    title: "Lie Of Excellence - Q1 (2025)",
     organization: "Reccopilot Inc.",
     date: "April 2025",
     description:
