@@ -72,7 +72,7 @@ const ResumeSection = () => {
                   <div className="w-full h-full flex items-center justify-center bg-portfolio-dark rounded">
                     {/* Replace with actual PDF viewer or iframe */}
                     <iframe
-                      src="https://drive.google.com/file/d/1tmjbaeGZJFv8vNXVkoKdgEVtlDSxX6n0/preview"
+                      src="https://drive.google.com/file/d/1Agiot0go5ANyC56VnKLqwwmQ8Im2Pihm/preview"
                       width="100%"
                       height="100%"
                       allow="autoplay"
