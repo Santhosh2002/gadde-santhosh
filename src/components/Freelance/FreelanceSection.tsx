@@ -32,6 +32,19 @@ type FreelanceProject = {
 const freelanceProjects: FreelanceProject[] = [
   {
     id: 1,
+    title: "AI Training & Code Evaluation Engineer",
+    client: "Scale AI",
+    description:
+      "Contributing to large-scale AI model training initiatives by designing and evaluating high-quality software engineering tasks. Created and reviewed technical prompts covering fullstack development, backend architecture, debugging strategies, and coding best practices across languages like JavaScript, Python, and Java. Evaluated AI-generated code for correctness, scalability, and maintainability while providing detailed feedback to improve model reasoning, code quality, and real-world engineering alignment.",
+    testimonial:
+      "Delivered exceptional technical insights that significantly improved the quality and reliability of AI-generated code. Demonstrates strong backend expertise, attention to detail, and the ability to think like a senior engineer when evaluating complex systems.",
+    clientName: "Marie Mercado",
+    clientPosition: "Program Lead, Scale AI",
+    image: "./sacleAI.png",
+    link: "https://scale.com/",
+  },
+  {
+    id: 2,
     title: "Multi Channel AI Agent For a Property Management SaaS",
     client: "LetQuikly (US Based)",
     description:
@@ -43,18 +56,7 @@ const freelanceProjects: FreelanceProject[] = [
     image: "./letquickly-chat.png",
     link: "https://letquickly.ai",
   },
-  {
-    id: 2,
-    title: "Single Sign-On (SSO) System Development",
-    client: "Office Core Inc.",
-    description:
-      "Implemented a robust Single Sign-On (SSO) system for Office Core Inc., allowing users to access multiple applications with a single set of credentials. This project involved integrating various identity providers and ensuring secure authentication protocols.",
-    testimonial:
-      "The SSO system has streamlined our user experience and significantly improved security. The integration was seamless, and the team was highly responsive to our needs.",
-    clientName: "Lagvendra",
-    clientPosition: "Developer, Office Core",
-    image: "./freelance-officecore.png",
-  },
+
   {
     id: 3,
     title:
@@ -69,9 +71,20 @@ const freelanceProjects: FreelanceProject[] = [
     image: "./rk-freelance.png",
     link: "https://realtors-consultants.vercel.app",
   },
-
   {
     id: 4,
+    title: "Single Sign-On (SSO) System Development",
+    client: "Office Core Inc.",
+    description:
+      "Implemented a robust Single Sign-On (SSO) system for Office Core Inc., allowing users to access multiple applications with a single set of credentials. This project involved integrating various identity providers and ensuring secure authentication protocols.",
+    testimonial:
+      "The SSO system has streamlined our user experience and significantly improved security. The integration was seamless, and the team was highly responsive to our needs.",
+    clientName: "Lagvendra",
+    clientPosition: "Developer, Office Core",
+    image: "./freelance-officecore.png",
+  },
+  {
+    id: 5,
     title:
       "Authentication System with Google OAuth Integration & Security Enhancements",
     client: "MyLynk",

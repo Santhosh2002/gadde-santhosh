@@ -3,34 +3,59 @@ import { cn } from "@/lib/utils";
 import AnimatedText from "../UI/AnimatedText";
 
 const skills = [
-  // AI/ML
-  { name: "Machine Learning", level: 85, category: "AI/ML" },
+  // AI / Agent Systems (your strongest differentiator)
+  { name: "LLM Orchestration", level: 95, category: "AI/ML" },
+  { name: "AI Agents & Tool Calling", level: 95, category: "AI/ML" },
+  {
+    name: "RAG (Retrieval-Augmented Generation)",
+    level: 90,
+    category: "AI/ML",
+  },
+  { name: "Prompt Engineering", level: 90, category: "AI/ML" },
+  { name: "Semantic Search & Embeddings", level: 85, category: "AI/ML" },
   { name: "NLP", level: 80, category: "AI/ML" },
-  { name: "Scikit-learn", level: 75, category: "AI/ML" },
-  { name: "TensorFlow", level: 70, category: "AI/ML" },
-  { name: "Prompt Engineering", level: 80, category: "AI/ML" },
+  { name: "TensorFlow / Keras", level: 75, category: "AI/ML" },
+
+  // Backend (very strong in your profile)
+  { name: "C#", level: 95, category: "Backend" },
+  { name: ".NET / ASP.NET Core", level: 95, category: "Backend" },
+  { name: "Node.js", level: 90, category: "Backend" },
+  { name: "Java (Spring Boot)", level: 85, category: "Backend" },
+  { name: "Python (Flask)", level: 85, category: "Backend" },
+  { name: "Microservices Architecture", level: 90, category: "Backend" },
+  { name: "REST APIs", level: 90, category: "Backend" },
 
   // Frontend
   { name: "React", level: 95, category: "Frontend" },
   { name: "JavaScript", level: 90, category: "Frontend" },
   { name: "TypeScript", level: 85, category: "Frontend" },
-  { name: "Redux/Redux Toolkit", level: 85, category: "Frontend" },
+  { name: "Redux / Redux Toolkit", level: 85, category: "Frontend" },
+  { name: "Material UI", level: 80, category: "Frontend" },
 
-  // Backend
-  { name: "Node.js", level: 95, category: "Backend" },
-  { name: "C#", level: 90, category: "Backend" },
-  { name: "ASP.NET MVC", level: 85, category: "Backend" },
-  { name: "SQL", level: 75, category: "Backend" },
-  { name: "NoSQL", level: 75, category: "Backend" },
+  // Databases & Search
+  { name: "PostgreSQL", level: 85, category: "Database" },
+  { name: "MongoDB", level: 80, category: "Database" },
+  { name: "Elasticsearch", level: 85, category: "Database" },
+  { name: "Redis", level: 85, category: "Database" },
+  { name: "Vector DB (Qdrant)", level: 85, category: "Database" },
 
-  { name: "Java", level: 95, category: "Backend" },
+  // DevOps & Cloud
+  { name: "Docker", level: 80, category: "DevOps" },
+  { name: "Kubernetes", level: 70, category: "DevOps" },
+  { name: "AWS", level: 75, category: "DevOps" },
+  { name: "Azure", level: 75, category: "DevOps" },
+  { name: "CI/CD Pipelines", level: 80, category: "DevOps" },
+  { name: "Jenkins", level: 70, category: "DevOps" },
 
-  // DevOps & Tools
-  { name: "Docker", level: 75, category: "DevOps" },
-  { name: "Git & GitHub", level: 85, category: "DevOps" },
-  { name: "Kubernetes", level: 65, category: "DevOps" },
-  { name: "Azure", level: 70, category: "DevOps" },
-  { name: "AWS", level: 70, category: "DevOps" },
+  // Real-time & Systems (important for your voice/LLM work)
+  { name: "WebSockets & Real-time Systems", level: 90, category: "Systems" },
+  { name: "Streaming Architectures", level: 85, category: "Systems" },
+  { name: "Twilio Integrations", level: 85, category: "Systems" },
+  { name: "Google STT / TTS", level: 85, category: "Systems" },
+
+  // Tools
+  { name: "Git & GitHub", level: 90, category: "Tools" },
+  { name: "Selenium", level: 75, category: "Tools" },
 ];
 
 const SkillsSection = () => {
@@ -53,7 +78,7 @@ const SkillsSection = () => {
           }
         });
       },
-      { threshold: 0.1 }
+      { threshold: 0.1 },
     );
 
     if (skillsRef.current) {
@@ -68,13 +93,16 @@ const SkillsSection = () => {
   }, []);
 
   // Group skills by category
-  const skillsByCategory = skills.reduce((acc, skill) => {
-    if (!acc[skill.category]) {
-      acc[skill.category] = [];
-    }
-    acc[skill.category].push(skill);
-    return acc;
-  }, {} as Record<string, typeof skills>);
+  const skillsByCategory = skills.reduce(
+    (acc, skill) => {
+      if (!acc[skill.category]) {
+        acc[skill.category] = [];
+      }
+      acc[skill.category].push(skill);
+      return acc;
+    },
+    {} as Record<string, typeof skills>,
+  );
 
   return (
     <section id="skills" className="py-24 relative overflow-hidden">
@@ -108,7 +136,7 @@ const SkillsSection = () => {
                 key={category}
                 className={cn(
                   "glass-card p-8 rounded-xl opacity-0",
-                  "animate-fade-in-up"
+                  "animate-fade-in-up",
                 )}
                 style={{
                   animationDelay: `${catIndex * 200}ms`,
@@ -139,7 +167,7 @@ const SkillsSection = () => {
                   ))}
                 </div>
               </div>
-            )
+            ),
           )}
         </div>
       </div>

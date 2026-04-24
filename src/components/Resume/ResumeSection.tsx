@@ -6,7 +6,7 @@ import { Download, Eye, FileText } from "lucide-react";
 const ResumeSection = () => {
   const [isViewerOpen, setIsViewerOpen] = useState(false);
   const resumeUrl =
-    "https://drive.google.com/file/d/1tmjbaeGZJFv8vNXVkoKdgEVtlDSxX6n0/view?usp=sharing"; // Replace with actual resume URL
+    "https://drive.google.com/file/d/1Agiot0go5ANyC56VnKLqwwmQ8Im2Pihm/view?usp=sharing"; // Replace with actual resume URL
 
   return (
     <section

@@ -4,7 +4,7 @@ import AnimatedText from "../UI/AnimatedText";
 
 const timelineItems = [
   {
-    year: "2025",
+    year: "2026",
     title: "Software Developer Engineer I",
     company: "Reccopilot Inc.",
     description:
@@ -35,7 +35,7 @@ const timelineItems = [
   {
     year: "2023",
     title: "Freelancer",
-    company: "",
+    company: "Upwork & Fiverr",
     description:
       "Worked on various freelance projects, including web development and Auth integrations . Gained experience in client communication, project management, and delivering high-quality results.",
   },
@@ -100,7 +100,7 @@ const AboutSection = () => {
                     "relative pl-8 opacity-0",
                     index % 2 === 0
                       ? "animate-fade-in-up"
-                      : "animate-fade-in-up"
+                      : "animate-fade-in-up",
                   )}
                   style={{
                     animationDelay: `${index * 200}ms`,

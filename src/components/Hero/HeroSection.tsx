@@ -133,7 +133,7 @@ const HeroSection = () => {
                 <div className="absolute -inset-6 bg-gradient-to-r rounded-full blur opacity-50 animate-pulse"></div>
 
                 <Avatar className="w-80 h-80 sm:w-80 sm:h-80 border-4 border-portfolio-teal shadow-lg shadow-portfolio-teal/20 cursor-pointer bg-transparent">
-                  <AvatarImage src="./professional-dp.png" />
+                  <AvatarImage src="./new-dp.jpg" />
                   <AvatarFallback className="bg-portfolio-gray text-5xl font-bold">
                     SS
                   </AvatarFallback>
